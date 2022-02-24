@@ -1,0 +1,18 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_masses
+run _M_m1_nsub3_nsim100
+v tensor([[ 1.6474, -1.2232],
+        [ 0.4563, -0.6260],
+        [-1.0041, -1.1924]], device='cuda:0')
+sim {'image': tensor([[0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        ...,
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.]], device='cuda:0')}
+sim['image'] min and max tensor(0., device='cuda:0') tensor(26.9432, device='cuda:0')
+m = 1 <= 0! tensor([3.1718e+10, 4.4770e+10, 4.3319e+10], device='cuda:0')
+['x_1', 'y_1', 'm_1', 'x_2', 'y_2', 'm_2', 'x_3', 'y_3', 'm_3']
+Creating new store.
+Store: Adding 83 new samples to simulator store.
+Done!

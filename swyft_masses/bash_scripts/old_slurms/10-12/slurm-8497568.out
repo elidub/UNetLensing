@@ -1,0 +1,8 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_masses
+Store _M_m1_nsub3_nsim100 exists!
+Loading existing store.
+Store has 120 simulations.
+Image has L = 40.
+Training UNet_M_m1_nsub3_nsim100_nmbins2_lr-3.0_fac-1.0_pat5.pt!
+Training: lr=0.001, Epoch=1, VL=6662Training: lr=0.001, Epoch=2, VL=6657Training: lr=0.001, Epoch=3, VL=6656Training: lr=0.001, Epoch=4, VL=6656Training: lr=0.001, Epoch=5, VL=6655Training: lr=0.001, Epoch=6, VL=6655Training: lr=0.001, Epoch=7, VL=6659Training: lr=0.001, Epoch=8, VL=6666Training: lr=0.001, Epoch=9, VL=6671Training: lr=0.001, Epoch=10, VL=6670
+Done!

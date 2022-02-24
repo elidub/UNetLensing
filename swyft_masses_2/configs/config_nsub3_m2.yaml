@@ -1,0 +1,56 @@
+imports: !import
+  - numpy as np
+  - from pyro import distributions as dist
+  - from pyrofit.lensing.utils import get_meshgrid
+  - from pyrofit.lensing.model import LensingModelBase
+  - from pyrofit.lensing.lenses import ExternalShear, SPLEwithHaloes, KeOpsNFWSubhaloes
+  - from pyrofit.lensing.sources import ImageSource
+  - from pyrofit.lensing.distributions import get_default_shmf
+  
+defs:
+  res: &res ${res=(0.125)} # 0.0125
+  nx: &nx ${nx=(40)} # 400
+  ny: &ny ${ny=(40)} # 400
+  XY: !py:get_meshgrid &XY [*res, *nx, *ny]
+  z_lens: &z_lens 0.5
+  z_src: &z_src 2.
+  mask: !tensor &mask [true]
+     
+model: !Stochastic
+  - !py:LensingModelBase
+    <: *XY
+    alphas:
+      ext: !Stochastic:ext
+        - !py:ExternalShear []
+        - gamma_1: 0.0070
+          gamma_2: 0.0100
+      main: !Stochastic:main
+        - !py:SPLEwithHaloes
+          z_lens: *z_lens
+          z_src: *z_src
+          sub: !Stochastic:sub
+            - !py:KeOpsNFWSubhaloes
+              nsub: 3
+              z_lens: *z_lens
+              z_src: *z_src
+              pos_sampler: !eval dist.Uniform(torch.tensor(-2.5), torch.tensor(2.5)).expand([2]).to_event(1)
+              mass_sampler: !py:get_default_shmf {z_lens: *z_lens, log_range: [11., 12.]} #!eval dist.Delta(torch.tensor(1e10))
+              c_200c_sampler: 15.
+            - {}
+        - phi:   1.
+          q:     0.75
+          r_ein: 1.5
+          slope: 2.1
+          x:     -0.05
+          y:     0.1
+    sources:
+      imagesrc: !py:ImageSource
+        image_path: &source_name ${source_name=('ngc4414.npy')}
+        x: 0.0
+        y: 0.0
+        peak_intensity: 30.0
+        scale: 1.0
+        origin: False
+  - sigma_stat: ${sigma_stat=(1)}
+    model_err: 0.
+  

@@ -1,0 +1,10 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_masses
+Store does not exist!
+Image has L = 40.
+m = 0 <= 0! tensor([1.1006e+09, 3.1266e+10, 7.3180e+08, 6.6943e+08, 4.6314e+08, 8.8264e+08,
+        5.2849e+08, 6.6792e+08, 1.9560e+09, 2.6479e+09], device='cuda:0')
+['x_1', 'y_1', 'm_1', 'x_2', 'y_2', 'm_2', 'x_3', 'y_3', 'm_3', 'x_4', 'y_4', 'm_4', 'x_5', 'y_5', 'm_5', 'x_6', 'y_6', 'm_6', 'x_7', 'y_7', 'm_7', 'x_8', 'y_8', 'm_8', 'x_9', 'y_9', 'm_9', 'x_10', 'y_10', 'm_10']
+Creating new store.
+Store: Adding 49813 new samples to simulator store.
+Done!
+Total training time is 0:33:34!

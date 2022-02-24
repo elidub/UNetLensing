@@ -1,0 +1,28 @@
+                        Welcome to SURF
+
+** Please accept Usage Agreement at https://portal.surfsara.nl before using LISA services **
+
+   This is a private computer facility.   Access for any reason must be
+   specifically authorized by the owner.  Unless you are so authorized,
+   your continued  access and any other use may  expose you to criminal
+   and/or civil proceedings.
+
+   Information:          http://surf.nl/en/lisa
+
+Warning: remote port forwarding failed for listen port 8850
+[I 15:34:05.069 NotebookApp] The port 8850 is already in use, trying another port.
+[I 15:34:05.071 NotebookApp] Serving notebooks from local directory: /home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_masses_2/bash_scripts
+[I 15:34:05.071 NotebookApp] Jupyter Notebook 6.4.4 is running at:
+[I 15:34:05.071 NotebookApp] http://localhost:8851/?token=b90cd6a510a9455c59c5a4867065d434acf4e6b189b6810a
+[I 15:34:05.071 NotebookApp]  or http://127.0.0.1:8851/?token=b90cd6a510a9455c59c5a4867065d434acf4e6b189b6810a
+[I 15:34:05.071 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:34:05.086 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/eliasd/.local/share/jupyter/runtime/nbserver-13371-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8851/?token=b90cd6a510a9455c59c5a4867065d434acf4e6b189b6810a
+     or http://127.0.0.1:8851/?token=b90cd6a510a9455c59c5a4867065d434acf4e6b189b6810a
+[?1049h[22;0;0t[1;24r(B[m[4l[?7h[?1h=[39;49m[39;49m[37m[40m[H[2J[37m[40m[J(B[m[39;49m[37m[40m[39;49m[37m[40m[J[39;49m(B[m[22d[93m[44mGetting file://localhost/home/eliasd/.local/share/jupyter/runtime/nbserver-1337[K[39;49m(B[m
+
+[24;1H[?1049l[23;0;0t[?1l>slurmstepd: error: *** JOB 8672238 ON r28n1 CANCELLED AT 2022-01-18T15:34:17 ***

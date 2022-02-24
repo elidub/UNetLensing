@@ -1,0 +1,9 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_masses_3/scripts
+Store _M_m1_nsub3_nsim100 exists!
+Loading existing store.
+Store has 96 simulations.
+Image has L = 40.
+Training UNet_M_m1_nsub3_nsim100_nmbins1_lr-3.0_fac-1.0_pat5.pt!
+training: lr=0.0005, epoch=1, validation loss=4465.609863training: lr=0.0005, epoch=2, validation loss=4469.389648training: lr=0.0005, epoch=3, validation loss=4475.449707training: lr=0.0005, epoch=4, validation loss=4486.389648training: lr=0.0005, epoch=5, validation loss=4505.453125training: lr=0.0005, epoch=6, validation loss=4544.37207training: lr=0.0005, epoch=7, validation loss=4609.324219training: lr=5e-05, epoch=8, validation loss=4638.904297training: lr=5e-05, epoch=9, validation loss=4670.282227training: lr=5e-05, epoch=10, validation loss=4703.642578
+Done!
+Total training time is 0:00:03!

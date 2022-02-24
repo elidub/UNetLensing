@@ -1,0 +1,9 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_masses_2
+Store _M_m1_nsub3_nsim10000 exists!
+Loading existing store.
+Store has 9997 simulations.
+Image has L = 40.
+Training UNet_M_m1_nsub3_nsim10000_nmbins2_lr-3.0_fac-1.0_pat5.pt!
+training: lr=0.0005, epoch=1, validation loss=8872training: lr=0.0005, epoch=2, validation loss=8872training: lr=0.0005, epoch=3, validation loss=8872training: lr=0.0005, epoch=4, validation loss=8871training: lr=0.0005, epoch=5, validation loss=8871training: lr=0.0005, epoch=6, validation loss=8871training: lr=0.0005, epoch=7, validation loss=8870training: lr=0.0005, epoch=8, validation loss=8870training: lr=0.0005, epoch=9, validation loss=8870training: lr=0.0005, epoch=10, validation loss=8870training: lr=0.0005, epoch=11, validation loss=8870training: lr=0.0005, epoch=12, validation loss=8870training: lr=0.0005, epoch=13, validation loss=8870training: lr=5e-05, epoch=14, validation loss=8869training: lr=5e-05, epoch=15, validation loss=8869training: lr=5e-05, epoch=16, validation loss=8869training: lr=5e-05, epoch=17, validation loss=8869training: lr=5e-05, epoch=18, validation loss=8870training: lr=5e-05, epoch=19, validation loss=8870training: lr=5e-06, epoch=20, validation loss=8870training: lr=5e-06, epoch=21, validation loss=8870training: lr=5e-06, epoch=22, validation loss=8870training: lr=5e-06, epoch=23, validation loss=8870training: lr=5e-06, epoch=24, validation loss=8870training: lr=5e-06, epoch=25, validation loss=8870
+Done!
+Total training time is 0:11:23!

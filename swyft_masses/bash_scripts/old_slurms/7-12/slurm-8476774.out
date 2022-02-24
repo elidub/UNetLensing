@@ -1,0 +1,41 @@
+run _M_m1_nsub3_nsim10000
+v tensor([[-0.1184, -1.5396],
+        [-0.7429,  0.2936],
+        [-1.2002,  0.7494]], device='cuda:0')
+sim {'image': tensor([[0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        ...,
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.]], device='cuda:0')}
+sim['image'] min and max tensor(0., device='cuda:0') tensor(26.9432, device='cuda:0')
+m = 1 <= 0! tensor([1.7474e+11, 1.0221e+10, 1.3062e+11], device='cuda:0')
+['x_1', 'y_1', 'x_2', 'y_2', 'x_3', 'y_3']
+Creating new store.
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_masses/create_store.py", line 86, in <module>
+    run()
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1137, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1062, in main
+    rv = self.invoke(ctx)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 763, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_masses/create_store.py", line 79, in run
+    store.add(nsim, prior)
+  File "/home/eliasd/lensing/swyft/swyft/store/store.py", line 129, in add
+    self._append_new_points(v_new, log_w_new)
+  File "/home/eliasd/lensing/swyft/swyft/store/store.py", line 237, in _append_new_points
+    self._root[self._filesystem.v].append(v)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/zarr/core.py", line 2294, in append
+    return self._write_op(self._append_nosync, data, axis=axis)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/zarr/core.py", line 2200, in _write_op
+    return self._synchronized_op(f, *args, **kwargs)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/zarr/core.py", line 2190, in _synchronized_op
+    result = f(*args, **kwargs)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/zarr/core.py", line 2308, in _append_nosync
+    raise ValueError('shape of data to append is not compatible with the array; '
+ValueError: shape of data to append is not compatible with the array; all dimensions must match except for the dimension being appended

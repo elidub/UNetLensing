@@ -1,0 +1,8 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_masses_2
+Store _M_m0_nsub3_nsim200 exists!
+Image has L = 40.
+m = 0 <= 0! tensor([1.3164e+09, 1.9277e+10, 1.5953e+09], device='cuda:0')
+Creating new store.
+Store: Adding 208 new samples to simulator store.
+Done!
+Total creating time is 0:00:10!
