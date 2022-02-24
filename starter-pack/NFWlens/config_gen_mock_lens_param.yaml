@@ -1,0 +1,111 @@
+imports: !import
+  - numpy as np
+  - from pyro import distributions as dist
+  - from pyrofit.lensing.utils import get_meshgrid
+  - from pyrofit.lensing.model import LensingModelBase
+  - from pyrofit.lensing.lenses import ExternalShear, SPLELens, NFWLens
+  - from pyrofit.lensing.sources import UnitPriorGPSource, UnitPriorWindowedGPSource, ImageSource
+
+defs:
+  res: &res ${res=(0.0125)} # with a $ so they can be changed from jypyter
+  nx: &nx ${nx=(400)}
+  ny: &ny ${ny=(400)}
+  XY: !py:get_meshgrid &XY [*res, *nx, *ny]
+  z_lens: &z_lens 0.5 # without a $ so they can't be changed from jupyter
+  z_src: &z_src 2.
+#   mask: !tensor &mask [!npy mask.npy] 
+  mask: !tensor &mask [true]
+# ---
+  imagesrc: !py:ImageSource
+   image_path: &source_name ${source_name=('ngc4414.npy')}
+   x: 0.0
+   y: 0.0
+   peak_intensity: 30.0
+   scale: 1.0
+   origin: upper
+# ---
+  src: !Stochastic:src # src is the name of the model, should match with guide (see below)
+    - !py:UnitPriorGPSource
+      q: !py:torch.flatten {__args: [!py:torch.stack {__args: [!py:get_meshgrid [.03, 40, 40]], dim: -1}], end_dim: -2}
+    - theta: !InfiniteSampler # !InfiniteSampler is just a tag, an identifier
+        init: !py:torch.zeros [1600]
+        expand_by: [1600]
+      alpha: !SemiInfiniteSampler
+        init: 10.
+      sigma: 0.04
+# ---
+  ngplayers: &ngplayers ${ngplayers=(3)}
+  gp: !Stochastic:gp
+    - !py:UnitPriorWindowedGPSource {mask: *mask}
+    - sigma: !py:np.geomspace [0.01, 0.002, *ngplayers]
+      alpha: !SemiInfiniteSampler
+        expand_by: !py:torch.Size [[*ngplayers]]
+        init: 1.0
+      theta: !InfiniteSampler
+        init: !py:torch.zeros [*ngplayers, *ny, *nx]
+        mask: *mask
+        expand_by: !py:torch.Size [[*ngplayers, *ny, *nx]]
+      multilayer: True
+params:
+  truth:
+    ext/gamma_1: 0.0443
+    ext/gamma_2: 0.0069
+#     main/phi: -3.0506
+#     main/q: 0.8719
+#     main/r_ein: 1.3610
+#     main/slope: 2.2335
+    main/x: 0.0102
+    main/y: -0.0202
+    main/M: 1e13 #1e11
+    main/c_200c: 20 #15
+    main/tau: 5 #6
+      
+model: !Stochastic
+  - !py:LensingModelBase
+    __args: *XY
+    alphas:
+      ext: !Stochastic:ext
+        - !py:ExternalShear []
+        - gamma_1: !Sampler [!py:dist.Normal [0., 0.05]]
+          gamma_2: !Sampler [!py:dist.Normal [0., 0.05]]
+      main: !Stochastic:main
+        - !py:NFWLens
+          z_lens: *z_lens
+          z_src: *z_src
+        - x:     !Sampler [!py:dist.Uniform [-0.2, 0.2]]
+          y:     !Sampler [!py:dist.Uniform [-0.2, 0.2]]
+          M:     !Sampler [!py:dist.Uniform [1e12, 1e14]] #truth 1e11
+          c_200c: !Sampler [!py:dist.Uniform [18., 22.0]] # truth 15
+          tau:  !Sampler [!py:dist.Uniform [5., 7.]] #truth 6
+#           z_lens: *z_lens
+#           z_src: *z_src
+    sources: {}
+  - sigma_stat: ${sigma_stat=(1)}
+    model_err: 0.
+# conditioning:
+#   image: !pt [mock_sigma_stat=${sigma_stat=(1)}.pt, obs]
+guide: # Guides are used for VI in Pyro. Using self defined guides in Clipppy. See https://pyro.ai/examples/svi_part_i.html#Guide.
+  - cls: DeltaSamplingGroup
+    match: gp/alpha
+    name: gp_alpha
+  - cls: DiagonalNormalSamplingGroup
+    init_scale: 0.001
+    match: gp/.*
+    name: gp
+  - cls: DeltaSamplingGroup
+    match: src/alpha
+    name: src_alpha
+  - cls: PartialMultivariateNormalSamplingGroup
+    init_scale_full: 0.01
+    init_scale_diag: 0.01
+    diag: src/theta
+    name: g
+#   Nothing left beyond this point if PMVN is active
+  - cls: DiagonalNormalSamplingGroup
+    init_scale: 0.01
+    match: src/.*
+    name: src
+  - cls: MultivariateNormalSamplingGroup
+    init_scale: 0.01
+    name: lens
+  
