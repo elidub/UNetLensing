@@ -1,0 +1,87 @@
+imports: !import
+  - numpy as np
+  - from pyro import distributions as dist
+  - from pyrofit.lensing.utils import get_meshgrid
+  - from pyrofit.lensing.model import LensingModelBase
+  - from pyrofit.lensing.lenses import ExternalShear, SPLELens
+  - from pyrofit.lensing.sources import UnitPriorGPSource, UnitPriorWindowedGPSource, ImageSource, SersicSource, ChannelCoefficients, ChannelCoefficients3
+#   - from pyrofit.lensing.utils import ChannelCoefficients
+  
+defs:
+  res: &res ${res=(0.0125)} # with a $ so they can be changed from jypyter
+  nx: &nx ${nx=(400)}
+  ny: &ny ${ny=(400)}
+  XY: !py:get_meshgrid &XY [*res, *nx, *ny]
+  sigma_stat: &sigma_stat ${sigma_stat=(0.01)}
+#   cmc: &cmc ${cmc=(0.0)}
+  
+conditioning:
+#     image = !pt 'mock'
+#     image = !pt mock_cmc=${cmc=(0.0)}_sigma=${sigma_stat=(0.1)}
+#     image: !pt [mock_sigma_stat=${sigma_stat=(1)}.pt, obs]
+  image: !pt gen_source_lens_source.pt
+    
+model: !Stochastic
+  - !py:LensingModelBase
+    <: *XY
+    alphas:
+      ext: !Stochastic:ext
+        - !py:ExternalShear []
+        - gamma_1: 0.0070 #!Sampler [!py:dist.Normal [0., 0.05]]
+          gamma_2: 0.0100 #!Sampler [!py:dist.Normal [0., 0.05]]
+      main: !Stochastic:main
+        - !py:SPLELens []
+        - phi:   1. #!InfiniteSampler []
+          q:     0.75 #!Sampler [!py:dist.Uniform [0.1, 1.]]
+          r_ein: 1.5 #!Sampler [!py:dist.Uniform [1, 1.7]]
+          slope: 2.1 #!Sampler [!py:dist.Uniform [1.5, 3.]]
+          x:     -0.05 #!Sampler [!py:dist.Uniform [-0.2, 0.2]]
+          y:     0.1 #!Sampler [!py:dist.Uniform [-0.2, 0.2]]
+    sources:
+      sersic: !Stochastic:sersic
+        - !py:SersicSource []
+        - x:     0.
+          y:     0.
+          phi:   1.
+          q:     0.5
+          index: 1.
+          r_e:   1.
+          I_e:   1.  
+    lenslight:
+      lenslight2: !Stochastic:lenslight2 #lensight2 -> sersic_lens or something 
+        - !py:SersicSource []
+        - x:     !Sampler [!py:dist.Uniform [-1., 1.]]
+          y:     !Sampler [!py:dist.Uniform [-1., 1.]]
+          phi:   1.1 #!Sampler [!py:dist.Uniform [0., 3.14159]] # [0., pi]
+          q:     0.9 #!Sampler [!py:dist.Uniform [0.1, 1.]] #[[0.5, 2.]]
+          index: 1.1 #!Sampler [!py:dist.Uniform [.5, 2.]]
+          r_e:   0.9 #!Sampler [!py:dist.Uniform [.5, 2.]]
+          I_e:   1.1 #!Sampler [!py:dist.Uniform [.5, 2.]]
+#     cmc: 
+#       cmc2: !Stochastic:cmc2
+#         - !py:ChannelCoefficients
+#         - c1: !Sampler [!py:dist.Uniform [0., 1.]]
+# #           c2: !Sampler [!py:dist.Uniform [0., 1.]] #0.4
+    n_channels: 2
+  - sigma_stat: *sigma_stat
+    cmc:        !Sampler [!py:dist.Uniform [0., 1.]]
+ 
+    
+guide:
+  - cls: MultivariateNormalSamplingGroup
+  
+  
+fit:
+  lr: 1e-1
+  n_steps: 5000  # for initial fits
+  optimizer_cls: !py:scheduled_optimizer
+    lr_scheduler_cls: !py:torch.optim.lr_scheduler.ReduceLROnPlateau
+    optimizer_cls: !py:torch.optim.Adam
+    factor: 0.1
+    cooldown: 2000
+    patience: 1000
+    min_lr: 1e-4
+    threshold: 10
+    threshold_mode: abs
+    verbose: True
+  callback: !py:scheduled_optimizer_callback_with_loss

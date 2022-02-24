@@ -1,0 +1,59 @@
+_: !import
+  - from pyro.distributions import Uniform
+  - from pyrofit.lensing.sources import SersicSource
+  - from pyrofit.lensing.utils import get_meshgrid
+  - from pyro import distributions as dist
+  
+defs:
+  res: &res ${res=(0.0125)} # with a $ so they can be changed from jypyter
+  nx: &nx ${nx=(400)}
+  ny: &ny ${ny=(400)}
+  XY: !py:get_meshgrid &XY [*res, *nx, *ny]
+  
+conditioning:
+  obs: !pt gen_source.pt
+
+params:
+  truth:
+    x:     0.3
+    y:     0.1
+    phi:   0.
+    q:     1.
+    index: 1.
+    r_e:   1.
+    I_e:   1.
+    
+model: !Sampler:obs
+  /: !Stochastic
+    - !py:pyro.distributions.Normal
+    - scale: 0.01  # <= INSERT NOISE HERE
+      loc: !Stochastic
+        - !py:SersicSource []
+        - [X, Y]: *XY
+          x:     !Sampler [!py:dist.Uniform [-1., 1.]]
+          y:     !Sampler [!py:dist.Uniform [-1., 1.]]
+          phi:   0. #!Sampler [!py:dist.Uniform [0., 3.]]
+          q:     !Sampler [!py:dist.Uniform [.5, 2.]]
+          index: !Sampler [!py:dist.Uniform [.5, 2.]]
+          r_e:   !Sampler [!py:dist.Uniform [.5, 2.]]
+          I_e:   !Sampler [!py:dist.Uniform [.5, 2.]]
+   
+    
+guide:
+  - cls: MultivariateNormalSamplingGroup
+  
+  
+fit:
+  lr: 1e-1
+  n_steps: 10000  # for initial fits
+  optimizer_cls: !py:scheduled_optimizer
+    lr_scheduler_cls: !py:torch.optim.lr_scheduler.ReduceLROnPlateau
+    optimizer_cls: !py:torch.optim.Adam
+    factor: 0.1
+    cooldown: 2000
+    patience: 1000
+    min_lr: 1e-4
+    threshold: 10
+    threshold_mode: abs
+    verbose: True
+  callback: !py:scheduled_optimizer_callback_with_loss

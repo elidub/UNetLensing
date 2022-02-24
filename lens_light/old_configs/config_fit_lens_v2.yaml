@@ -1,0 +1,45 @@
+_: !import
+  - from pyro.distributions import Uniform
+  - from pyrofit.lensing.sources import SersicSource
+  - from pyrofit.lensing.utils import get_meshgrid
+  - from pyro import distributions as dist
+  
+defs:
+  res: &res ${res=(0.0125)} # with a $ so they can be changed from jypyter
+  nx: &nx ${nx=(400)}
+  ny: &ny ${ny=(400)}
+  XY: !py:get_meshgrid &XY [*res, *nx, *ny]
+  
+conditioning:
+#   obs: !pt gen_soure.pt
+#   obs: !pt linear_data.pt  
+  obs: !pt gen_source.pt
+
+params:
+  truth:
+    x:     0.3
+    y:     0.1
+    phi:   0.
+    q:     1.
+    index: 1.
+    r_e:   1.
+    I_e:   5.
+    
+model: !Sampler:obs
+  /: !Stochastic
+    - !py:pyro.distributions.Normal
+    - scale: 0.01  # <= INSERT NOISE HERE
+      loc: !Stochastic
+        - !py:SersicSource []
+        - [X, Y]: *XY
+          x:     !Sampler [!py:dist.Uniform [-1., 1.]]
+          y:     !Sampler [!py:dist.Uniform [-1., 1.]]
+          phi:   0
+          q:     1
+          index: 1
+          r_e:   1
+          I_e:   5
+   
+    
+guide:
+  - cls: MultivariateNormalSamplingGroup

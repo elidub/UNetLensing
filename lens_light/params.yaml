@@ -1,0 +1,51 @@
+lens_source:
+  scale: 1.
+  truth:
+    ext/gamma_1: 0.0070
+    ext/gamma_2: 0.0100
+    main/phi: 1.
+    main/q: 0.75
+    main/r_ein: 1.5
+    main/slope: 2.1
+    main/x: -0.05
+    main/y: 0.1
+    lenslight2/x: 0.3
+    lenslight2/y: 0.1
+    lenslight2/phi: 1.1
+    lenslight2/q: 0.9
+    lenslight2/index: 1.1
+    lenslight2/r_e: 0.9
+    lenslight2/I_e: 1.1
+    cmc2/c1: 0.1
+    cmc2/c2: 0.3
+    cmc: 0.1
+  init:
+    ext/gamma_1: 0.
+    ext/gamma_2: 0.
+    main/phi: 0.5
+    main/q: 0.5
+    main/r_ein: 1.42
+    main/slope: 2.
+    main/x: 0.
+    main/y: 0.
+    lenslight2/x: 0.
+    lenslight2/y: 0.
+    lenslight2/phi: 0.
+    lenslight2/q: 1.
+    lenslight2/index: 1.
+    lenslight2/r_e: 1.
+    lenslight2/I_e: 1.
+    cmc2/c1: 0.5
+    cmc2/c2: 0.5
+    cmc: 0.1
+    
+lens:
+  scale: 1.
+  truth:
+    x:     0.3
+    y:     0.1
+    phi:   1.1
+    q:     0.5
+    index: 1.1
+    r_e:   0.9
+    I_e:   1.5
