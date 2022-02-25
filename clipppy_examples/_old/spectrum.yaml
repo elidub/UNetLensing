@@ -1,0 +1,39 @@
+!py:Clipppy  # optional
+_: !import
+  - {from: pyro, import: distributions as dist}
+  - {from: examples.minimal, import: [Source, SpecModel]}
+model: &model !py:pyro.condition
+  - !Stochastic
+    obj: !py:SpecModel
+      xgrid: &xgrid !py:torch.linspace [-5., 5., 1000]
+      sources:
+        - !Stochastic:Source1
+          obj: !py:Source {xgrid: *xgrid}
+          specs: &priors
+            x0: !py:dist.Uniform [-5., 5.]
+            h0: !py:dist.Uniform [0., 10.]
+            w0: !py:dist.Uniform [0., 1.]
+        - !Stochastic:Source2 [!py:Source {xgrid: *xgrid}, *priors]
+        - !Stochastic:Source3
+          - !py:Source {xgrid: *xgrid}
+          - x0: !py:Sampler
+              d: !py:dist.Uniform [-5., 5.]
+              init: 0.
+            h0: !py:dist.Uniform [0., 10.]
+            w0: !py:dist.Uniform [0., 1.]
+    specs:
+      a: !py:dist.Uniform [-1., 1.]
+      b: !py:dist.Uniform [-1., 1.]
+  - spec: !tensor [!npz [examples/spectrum.npz, spec]]
+guide:  # !py:Guide is optional
+  # use keyword __args when you need to mix positional and keyword arguments
+  # as in func(*args, kwarg)
+  __args:
+    - cls: DeltaSamplingGroup
+      match: .*Source.*
+    - cls: DiagonalNormalSamplingGroup
+  model: *model
+fit: !py:Fit
+  lr: !py:float "-inf"
+mock: !py:Mock
+  plate_stack: [20, 3]
