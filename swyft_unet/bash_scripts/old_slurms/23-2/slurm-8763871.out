@@ -1,0 +1,9 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts
+Usage: create_store.py [OPTIONS]
+Try 'create_store.py --help' for help.
+
+Error: No such option: --zero
+Usage: train.py [OPTIONS]
+Try 'train.py --help' for help.
+
+Error: No such option: --zero Did you mean --lr?

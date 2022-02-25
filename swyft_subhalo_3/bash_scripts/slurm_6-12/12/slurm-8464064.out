@@ -1,0 +1,7 @@
+run _m10_nsub1_nsim10000
+Loading existing store.
+Store has 10056 simulations
+L = 40
+Training UNet_m10_nsub1_nsim10000_lr-7.0_fac-3.5228787452803374_pat5.pt!
+Training: lr=1e-07, Epoch=1, VL=2350Training: lr=1e-07, Epoch=2, VL=2334Training: lr=1e-07, Epoch=3, VL=2321Training: lr=1e-07, Epoch=4, VL=2309Training: lr=1e-07, Epoch=5, VL=2300Training: lr=1e-07, Epoch=6, VL=2292Training: lr=1e-07, Epoch=7, VL=2285Training: lr=1e-07, Epoch=8, VL=2278Training: lr=1e-07, Epoch=9, VL=2273Training: lr=1e-07, Epoch=10, VL=2269Training: lr=1e-07, Epoch=11, VL=2265Training: lr=1e-07, Epoch=12, VL=2261Training: lr=1e-07, Epoch=13, VL=2258Training: lr=1e-07, Epoch=14, VL=2256Training: lr=1e-07, Epoch=15, VL=2253Training: lr=1e-07, Epoch=16, VL=2251Training: lr=1e-07, Epoch=17, VL=2249Training: lr=1e-07, Epoch=18, VL=2248Training: lr=1e-07, Epoch=19, VL=2246Training: lr=1e-07, Epoch=20, VL=2245Training: lr=1e-07, Epoch=21, VL=2243Training: lr=1e-07, Epoch=22, VL=2242Training: lr=1e-07, Epoch=23, VL=2241Training: lr=1e-07, Epoch=24, VL=2240Training: lr=1e-07, Epoch=25, VL=2239Training: lr=1e-07, Epoch=26, VL=2238Training: lr=1e-07, Epoch=27, VL=2237Training: lr=1e-07, Epoch=28, VL=2236Training: lr=1e-07, Epoch=29, VL=2235Training: lr=1e-07, Epoch=30, VL=2234
+Done!

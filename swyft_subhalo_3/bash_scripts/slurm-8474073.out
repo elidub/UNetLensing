@@ -1,0 +1,7 @@
+[32m[I 2021-12-06 14:57:52,008][0m A new study created in memory with name: no-name-34d3944c-2104-484e-ba59-e068a55996b9[0m
+run _m9_nsub3_nsim10000
+Loading existing store.
+Store has 9907 simulations
+L = 40
+Training UNet_m9_nsub3_nsim10000_lr-4.0033328029211335_fac-2.528907909649046_pat3.pt!
+Training: lr=9.9e-05, Epoch=1, VL=2218Training: lr=9.9e-05, Epoch=2, VL=2218Training: lr=9.9e-05, Epoch=3, VL=2218slurmstepd: error: *** JOB 8474073 ON r29n4 CANCELLED AT 2021-12-06T14:58:53 ***

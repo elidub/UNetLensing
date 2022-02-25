@@ -1,0 +1,29 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts
+Image has L = 40.
+m samples: ['2e+10']
+Creating new store.
+Store: Adding 4978 new samples to simulator store.
+ Creating store Done! 
+ Total creating time is 0:02:57! 
+ 
+ 
+Loading existing store.
+Store has 4978 simulations.
+Image has L = 40.
+Training ../data/mre/mre_real_m_1_nsub_1_nsim_5000_sigma_0.0_nmc_1.pt!
+training: lr=0.0005, epoch=1, validation loss=4436.246094training: lr=0.0005, epoch=2, validation loss=4436.10791training: lr=0.0005, epoch=3, validation loss=4435.714844training: lr=0.0005, epoch=4, validation loss=4435.34668training: lr=0.0005, epoch=5, validation loss=4435.190918training: lr=0.0005, epoch=6, validation loss=4435.131836training: lr=0.0005, epoch=7, validation loss=4435.054199training: lr=0.0005, epoch=8, validation loss=4435.032715training: lr=0.0005, epoch=9, validation loss=4435.072266training: lr=0.0005, epoch=10, validation loss=4434.956543training: lr=0.0005, epoch=11, validation loss=4435.030762training: lr=5e-05, epoch=12, validation loss=4434.923828training: lr=5e-05, epoch=13, validation loss=4434.916504training: lr=5e-05, epoch=14, validation loss=4434.911621training: lr=5e-05, epoch=15, validation loss=4434.908203training: lr=5e-05, epoch=16, validation loss=4434.904785training: lr=5e-05, epoch=17, validation loss=4434.901855training: lr=5e-06, epoch=18, validation loss=4434.896973training: lr=5e-06, epoch=19, validation loss=4434.895508training: lr=5e-06, epoch=20, validation loss=4434.894043
+ Training Done! 
+ Total training time is 0:03:33! 
+ 
+ 
+Loading existing store.
+Store has 4978 simulations.
+Image has L = 40.
+Loading ../data/mre/mre_real_m_1_nsub_1_nsim_5000_sigma_0.0_nmc_1.pt!
+prior no halo 	0.999375
+pario halo 	0.000625
+  0%|          | 0/4978 [00:00<?, ?it/s] 91%|#########1| 4543/4978 [01:00<00:05, 75.70it/s]100%|##########| 4978/4978 [01:05<00:00, 75.74it/s]
+ Prediction Done! 
+ Total prediction time is 0:01:07! 
+ 
+ 

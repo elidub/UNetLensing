@@ -1,0 +1,11 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts
+/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/torch/functional.py:445: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  ../aten/src/ATen/native/TensorShape.cpp:2157.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Image has L = 40.
+m samples: ['2.4e+11', '2e+10', '6.8e+10']
+Creating new store.
+Store: Adding 9817 new samples to simulator store.
+ Creating store Done! 
+ Total creating time is 0:05:30! 
+ 
+ 

@@ -1,0 +1,7 @@
+run _m10_nsub1_nsim10000
+Loading existing store.
+Store has 10056 simulations
+L = 40
+Training UNet_m10_nsub1_nsim10000_lr-2.0_fac-3.5228787452803374_pat5.pt!
+Training: lr=0.01, Epoch=1, VL=2218Training: lr=0.01, Epoch=2, VL=2218Training: lr=0.01, Epoch=3, VL=2218Training: lr=0.01, Epoch=4, VL=2221Training: lr=0.01, Epoch=5, VL=2222Training: lr=0.01, Epoch=6, VL=2222Training: lr=0.01, Epoch=7, VL=2222Training: lr=3e-06, Epoch=8, VL=2217Training: lr=3e-06, Epoch=9, VL=2217Training: lr=3e-06, Epoch=10, VL=2217Training: lr=3e-06, Epoch=11, VL=2217Training: lr=3e-06, Epoch=12, VL=2217Training: lr=3e-06, Epoch=13, VL=2217Training: lr=3e-06, Epoch=14, VL=2217Training: lr=9e-10, Epoch=15, VL=2217Training: lr=9e-10, Epoch=16, VL=2217Training: lr=9e-10, Epoch=17, VL=2217Training: lr=9e-10, Epoch=18, VL=2217Training: lr=9e-10, Epoch=19, VL=2217
+Done!

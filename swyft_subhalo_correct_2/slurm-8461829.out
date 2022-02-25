@@ -1,0 +1,7 @@
+nsub = 5
+['x_1', 'y_1', 'x_2', 'y_2', 'x_3', 'y_3', 'x_4', 'y_4', 'x_5', 'y_5']
+Loading existing store.
+L = 40
+Training UNet_lr-5.0_fac-1.75_pat4.pt!
+Training: lr=1e-05, Epoch=1, VL=2220Training: lr=1e-05, Epoch=2, VL=2220Training: lr=1e-05, Epoch=3, VL=2220Training: lr=1e-05, Epoch=4, VL=2220Training: lr=1e-05, Epoch=5, VL=2221Training: lr=1e-05, Epoch=6, VL=2221
+Done!

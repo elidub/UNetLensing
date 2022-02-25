@@ -1,0 +1,16 @@
+run _m9_nsub3_nsim10000
+v tensor([[ 0.3614, -1.4534],
+        [ 2.4408,  0.9434],
+        [ 0.2528,  1.7011]], device='cuda:0')
+sim {'image': tensor([[0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        ...,
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.],
+        [0., 0., 0.,  ..., 0., 0., 0.]], device='cuda:0')}
+sim['image'] min and max tensor(0., device='cuda:0') tensor(26.9172, device='cuda:0')
+['x_1', 'y_1', 'x_2', 'y_2', 'x_3', 'y_3']
+Creating new store.
+Store: Adding 9907 new samples to simulator store.
+Done!

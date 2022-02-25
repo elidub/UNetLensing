@@ -1,0 +1,28 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts
+Creating new store.
+Store: Adding 445 new samples to simulator store.
+Creating store /nfs/scratch/eliasd/store/store_m_1_nsub_1_nsim_500.zarr Done!
+Total creating time is 0:00:18! 
+ 
+ 
+Loading existing store.
+Store has 445 simulations.
+Training ../data/mre/mre_m_1_nsub_1_nsim_500_sigma_0.0_nmc_2.pt!
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/train.py", line 105, in <module>
+    run()
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1137, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1062, in main
+    rv = self.invoke(ctx)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 763, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/train.py", line 96, in run
+    _ = mre.train(dataset, max_epochs = max_epochs)
+  File "/home/eliasd/lensing/swyft/swyft/inference/marginalratioestimator.py", line 233, in train
+    loss = self._loss(observation, v).sum(dim=0)
+  File "/home/eliasd/lensing/swyft/swyft/inference/marginalratioestimator.py", line 385, in _loss
+    lnL = lnL.view(-1, 4, lnL.shape[-1])
+RuntimeError: shape '[-1, 4, 3200]' is invalid for input of size 160000

@@ -1,0 +1,4 @@
+Usage: train.py [OPTIONS]
+Try 'train.py --help' for help.
+
+Error: No such option: -n

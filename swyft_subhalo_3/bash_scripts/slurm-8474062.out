@@ -1,0 +1,33 @@
+run _m9_nsub3_nsim10000
+Loading existing store.
+Store has 9907 simulations
+L = 40
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_subhalo_3/gridsearch.py", line 108, in <module>
+    run()
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1137, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1062, in main
+    rv = self.invoke(ctx)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 763, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_subhalo_3/gridsearch.py", line 98, in run
+    study = optuna.create_study(direction="minimize", 
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/optuna/study/study.py", line 1136, in create_study
+    storage = storages.get_storage(storage)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/optuna/storages/__init__.py", line 31, in get_storage
+    return _CachedStorage(RDBStorage(storage))
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/optuna/storages/_rdb/storage.py", line 175, in __init__
+    self.engine = create_engine(self.url, **self.engine_kwargs)
+  File "<string>", line 2, in create_engine
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/sqlalchemy/util/deprecations.py", line 309, in warned
+    return fn(*args, **kwargs)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/sqlalchemy/engine/create.py", line 530, in create_engine
+    u = _url.make_url(url)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/sqlalchemy/engine/url.py", line 715, in make_url
+    return _parse_rfc1738_args(name_or_url)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/sqlalchemy/engine/url.py", line 776, in _parse_rfc1738_args
+    raise exc.ArgumentError(
+sqlalchemy.exc.ArgumentError: Could not parse rfc1738 URL from string 'studies/study_m9_nsub3_nsim10000.pkl'

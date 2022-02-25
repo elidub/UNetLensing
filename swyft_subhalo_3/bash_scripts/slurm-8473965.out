@@ -1,0 +1,14 @@
+[32m[I 2021-12-06 12:45:59,054][0m A new study created in memory with name: no-name-cb89bd6e-09f7-4ce2-bf5f-45aeb61c7abe[0m
+run _m9_nsub3_nsim10000
+Loading existing store.
+Store has 9907 simulations
+L = 40
+Training UNet_m9_nsub3_nsim10000_lr-3.1031284772993257_fac-2.5468831119442688_pat2.pt!
+Training: lr=0.00079, Epoch=1, VL=2218Training: lr=0.00079, Epoch=2, VL=2218Training: lr=0.00079, Epoch=3, VL=2218[32m[I 2021-12-06 12:46:54,352][0m Trial 0 finished with value: 2218.100830078125 and parameters: {'lr': 0.0007886267837129072, 'factor': 0.002838682942089022, 'patience': 2}. Best is trial 0 with value: 2218.100830078125.[0m
+
+Training UNet_m9_nsub3_nsim10000_lr-2.7990512644676686_fac-3.3701418825842_pat2.pt!
+Training: lr=0.0016, Epoch=1, VL=2218Training: lr=0.0016, Epoch=2, VL=2218Training: lr=0.0016, Epoch=3, VL=2218[32m[I 2021-12-06 12:47:49,575][0m Trial 1 finished with value: 2218.102848307292 and parameters: {'lr': 0.0015883592463369163, 'factor': 0.00042644017943265525, 'patience': 2}. Best is trial 0 with value: 2218.100830078125.[0m
+
+Training UNet_m9_nsub3_nsim10000_lr-3.7056168146035566_fac-2.4428150007092886_pat2.pt!
+Training: lr=0.0002, Epoch=1, VL=2218Training: lr=0.0002, Epoch=2, VL=2218Training: lr=0.0002, Epoch=3, VL=2218[32m[I 2021-12-06 12:48:45,068][0m Trial 2 finished with value: 2218.101741536458 and parameters: {'lr': 0.00019696233554069068, 'factor': 0.0036073227380851473, 'patience': 2}. Best is trial 0 with value: 2218.100830078125.[0m
+

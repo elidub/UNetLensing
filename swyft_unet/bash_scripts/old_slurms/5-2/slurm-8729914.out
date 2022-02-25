@@ -1,0 +1,12 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts
+Loading existing store.
+Store has 1034 simulations.
+Image has L = 40.
+Loading ../data/mre/mre_toy_m_1_nsub_2_nsim_1000_sigma_0.1_nmc_1.pt!
+prior no halo 	0.99875
+pario halo 	0.00125
+  0%|          | 0/1034 [00:00<?, ?it/s] 10%|9         | 103/1034 [00:01<00:14, 62.17it/s] 20%|#9        | 206/1034 [00:03<00:13, 63.16it/s] 30%|##9       | 309/1034 [00:04<00:11, 62.77it/s] 40%|###9      | 412/1034 [00:06<00:09, 63.62it/s] 50%|####9     | 515/1034 [00:08<00:07, 64.89it/s] 60%|#####9    | 618/1034 [00:09<00:06, 65.85it/s] 70%|######9   | 721/1034 [00:11<00:04, 66.02it/s] 80%|#######9  | 824/1034 [00:12<00:03, 66.15it/s] 90%|########9 | 927/1034 [00:14<00:01, 66.00it/s]100%|#########9| 1030/1034 [00:15<00:00, 65.76it/s]100%|##########| 1034/1034 [00:15<00:00, 65.17it/s]
+ Prediction Done! 
+ Total prediction time is 0:00:17! 
+ 
+ 

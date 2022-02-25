@@ -1,0 +1,17 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts
+Image has L = 40.
+m samples: ['3e+10']
+Creating new store.
+Store: Adding 1011 new samples to simulator store.
+ Creating store Done! 
+ Total creating time is 0:00:45! 
+ 
+ 
+Image has L = 40.
+m samples: ['2.3e+10', '1.5e+10']
+Creating new store.
+Store: Adding 972 new samples to simulator store.
+ Creating store Done! 
+ Total creating time is 0:00:45! 
+ 
+ 

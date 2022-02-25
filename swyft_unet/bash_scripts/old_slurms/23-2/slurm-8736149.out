@@ -1,0 +1,29 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts
+Image has L = 40.
+m samples: ['3.8e+11', '1.1e+10', '1e+10', '1.6e+10', '1.3e+11']
+Creating new store.
+Store: Adding 49594 new samples to simulator store.
+ Creating store Done! 
+ Total creating time is 0:36:02! 
+ 
+ 
+Loading existing store.
+Store has 49594 simulations.
+Image has L = 40.
+Training ../data/mre/mre_real_m_1_nsub_5_nsim_50000_sigma_0.0_nmc_1.pt!
+training: lr=0.0005, epoch=1, validation loss=4433.416016training: lr=0.0005, epoch=2, validation loss=4432.367676training: lr=0.0005, epoch=3, validation loss=4432.071777training: lr=0.0005, epoch=4, validation loss=4432.006836training: lr=0.0005, epoch=5, validation loss=4431.908691training: lr=0.0005, epoch=6, validation loss=4431.822266training: lr=0.0005, epoch=7, validation loss=4432.077637training: lr=0.0005, epoch=8, validation loss=4431.631836training: lr=0.0005, epoch=9, validation loss=4431.730469training: lr=0.0005, epoch=10, validation loss=4431.824219training: lr=0.0005, epoch=11, validation loss=4431.783203training: lr=5e-05, epoch=12, validation loss=4431.401367training: lr=5e-05, epoch=13, validation loss=4431.578125training: lr=5e-05, epoch=14, validation loss=4431.770996training: lr=5e-05, epoch=15, validation loss=4431.961914training: lr=5e-05, epoch=16, validation loss=4432.206055training: lr=5e-05, epoch=17, validation loss=4432.462891training: lr=5e-05, epoch=18, validation loss=4432.716797training: lr=5e-06, epoch=19, validation loss=4432.604004training: lr=5e-06, epoch=20, validation loss=4432.654785
+ Training Done! 
+ Total training time is 1:12:43! 
+ 
+ 
+Loading existing store.
+Store has 49594 simulations.
+Image has L = 40.
+Loading ../data/mre/mre_real_m_1_nsub_5_nsim_50000_sigma_0.0_nmc_1.pt!
+prior no halo 	0.996875
+pario halo 	0.003125
+  0%|          | 0/49594 [00:00<?, ?it/s]  7%|6         | 3362/49594 [01:00<13:45, 56.02it/s]  7%|6         | 3362/49594 [01:20<13:45, 56.02it/s] 14%|#3        | 6780/49594 [02:00<12:36, 56.57it/s] 14%|#3        | 6780/49594 [02:20<12:36, 56.57it/s] 21%|##        | 10208/49594 [03:00<11:33, 56.82it/s] 21%|##        | 10208/49594 [03:20<11:33, 56.82it/s] 28%|##7       | 13641/49594 [04:00<10:31, 56.98it/s] 28%|##7       | 13641/49594 [04:20<10:31, 56.98it/s] 34%|###4      | 17063/49594 [05:00<09:30, 56.99it/s] 34%|###4      | 17063/49594 [05:20<09:30, 56.99it/s] 41%|####1     | 20480/49594 [06:00<08:30, 56.98it/s] 41%|####1     | 20480/49594 [06:20<08:30, 56.98it/s] 48%|####8     | 23897/49594 [07:00<07:31, 56.97it/s] 48%|####8     | 23897/49594 [07:20<07:31, 56.97it/s] 55%|#####5    | 27316/49594 [08:00<06:31, 56.97it/s] 55%|#####5    | 27316/49594 [08:20<06:31, 56.97it/s] 62%|######1   | 30735/49594 [09:00<05:31, 56.97it/s] 62%|######1   | 30735/49594 [09:20<05:31, 56.97it/s] 69%|######8   | 34195/49594 [10:00<04:29, 57.18it/s] 69%|######8   | 34195/49594 [10:20<04:29, 57.18it/s] 76%|#######5  | 37554/49594 [11:00<03:31, 56.81it/s] 76%|#######5  | 37554/49594 [11:20<03:31, 56.81it/s] 83%|########2 | 40979/49594 [12:00<02:31, 56.89it/s] 83%|########2 | 40979/49594 [12:20<02:31, 56.89it/s] 90%|########9 | 44387/49594 [13:00<01:31, 56.86it/s] 90%|########9 | 44387/49594 [13:20<01:31, 56.86it/s] 96%|#########6| 47789/49594 [14:00<00:31, 56.81it/s] 96%|#########6| 47789/49594 [14:20<00:31, 56.81it/s]100%|##########| 49594/49594 [14:31<00:00, 56.88it/s]
+ Prediction Done! 
+ Total prediction time is 0:14:36! 
+ 
+ 

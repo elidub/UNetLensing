@@ -1,0 +1,14 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts
+Loading existing store.
+Store has 492 simulations.
+Loading ../data/mre/mre_real_m_1_nsub_1_nsim_500_sigma_0.0_nmc_3.pt!
+3
+Prior subhalo in Mass range
+4.66e-04 	 [1.00e+10 - 4.64e+10]
+1.26e-04 	 [4.64e+10 - 2.15e+11]
+3.29e-05 	 [2.15e+11 - 1.00e+12]
+  0%|          | 0/492 [00:00<?, ?it/s]100%|##########| 492/492 [00:07<00:00, 66.68it/s]
+Prediction Done!
+Total creating time is 0:00:18! 
+ 
+ 

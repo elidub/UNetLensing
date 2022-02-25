@@ -1,0 +1,143 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts
+Image has L = 40.
+m samples: ['2.9e+10', '1e+10', '1.1e+10']
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 72, in <module>
+    run()
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1137, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1062, in main
+    rv = self.invoke(ctx)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 763, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 62, in run
+    store = swyft.Store.directory_store(
+  File "/home/eliasd/lensing/swyft/swyft/store/store.py", line 527, in directory_store
+    return cls(
+  File "/home/eliasd/lensing/swyft/swyft/store/store.py", line 66, in __init__
+    self._root = zarr.group(
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/zarr/hierarchy.py", line 1098, in group
+    init_group(store, overwrite=overwrite, chunk_store=chunk_store,
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/zarr/storage.py", line 489, in init_group
+    _init_group_metadata(store=store, overwrite=overwrite, path=path,
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/zarr/storage.py", line 503, in _init_group_metadata
+    rmdir(store, path)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/zarr/storage.py", line 123, in rmdir
+    store.rmdir(path)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/zarr/storage.py", line 999, in rmdir
+    shutil.rmtree(dir_path)
+  File "/home/eliasd/.pyenv/versions/3.9.7/lib/python3.9/shutil.py", line 730, in rmtree
+    onerror(os.rmdir, path, sys.exc_info())
+  File "/home/eliasd/.pyenv/versions/3.9.7/lib/python3.9/shutil.py", line 728, in rmtree
+    os.rmdir(path)
+OSError: [Errno 39] Directory not empty: '/nfs/scratch/eliasd/store/store_real_m_1_nsub_3_nsim_50000.zarr'
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/train.py", line 103, in <module>
+    run()
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1137, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1062, in main
+    rv = self.invoke(ctx)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 763, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/train.py", line 61, in run
+    store = swyft.Store.load(path=store_path)
+  File "/home/eliasd/lensing/swyft/swyft/store/store.py", line 598, in load
+    return cls(
+  File "/home/eliasd/lensing/swyft/swyft/store/store.py", line 72, in __init__
+    raise KeyError(
+KeyError: "Invalid Zarr store. It should have keys: ['samples', 'metadata']."
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/get_pred.py", line 136, in <module>
+    run()
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1137, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1062, in main
+    rv = self.invoke(ctx)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 763, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/get_pred.py", line 67, in run
+    store = swyft.Store.load(path=store_path)
+  File "/home/eliasd/lensing/swyft/swyft/store/store.py", line 598, in load
+    return cls(
+  File "/home/eliasd/lensing/swyft/swyft/store/store.py", line 72, in __init__
+    raise KeyError(
+KeyError: "Invalid Zarr store. It should have keys: ['samples', 'metadata']."
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/train.py", line 103, in <module>
+    run()
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1137, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1062, in main
+    rv = self.invoke(ctx)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 763, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/train.py", line 61, in run
+    store = swyft.Store.load(path=store_path)
+  File "/home/eliasd/lensing/swyft/swyft/store/store.py", line 598, in load
+    return cls(
+  File "/home/eliasd/lensing/swyft/swyft/store/store.py", line 72, in __init__
+    raise KeyError(
+KeyError: "Invalid Zarr store. It should have keys: ['samples', 'metadata']."
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/get_pred.py", line 136, in <module>
+    run()
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1137, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1062, in main
+    rv = self.invoke(ctx)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 763, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/get_pred.py", line 67, in run
+    store = swyft.Store.load(path=store_path)
+  File "/home/eliasd/lensing/swyft/swyft/store/store.py", line 598, in load
+    return cls(
+  File "/home/eliasd/lensing/swyft/swyft/store/store.py", line 72, in __init__
+    raise KeyError(
+KeyError: "Invalid Zarr store. It should have keys: ['samples', 'metadata']."
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/train.py", line 103, in <module>
+    run()
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1137, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1062, in main
+    rv = self.invoke(ctx)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 763, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/train.py", line 61, in run
+    store = swyft.Store.load(path=store_path)
+  File "/home/eliasd/lensing/swyft/swyft/store/store.py", line 598, in load
+    return cls(
+  File "/home/eliasd/lensing/swyft/swyft/store/store.py", line 72, in __init__
+    raise KeyError(
+KeyError: "Invalid Zarr store. It should have keys: ['samples', 'metadata']."
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/get_pred.py", line 136, in <module>
+    run()
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1137, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1062, in main
+    rv = self.invoke(ctx)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 763, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/get_pred.py", line 67, in run
+    store = swyft.Store.load(path=store_path)
+  File "/home/eliasd/lensing/swyft/swyft/store/store.py", line 598, in load
+    return cls(
+  File "/home/eliasd/lensing/swyft/swyft/store/store.py", line 72, in __init__
+    raise KeyError(
+KeyError: "Invalid Zarr store. It should have keys: ['samples', 'metadata']."

@@ -1,0 +1,91 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts
+/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/torch/functional.py:445: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  ../aten/src/ATen/native/TensorShape.cpp:2157.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Image has L = 40.
+m samples: ['1.5e+10']
+Creating new store.
+Store: Adding 10003 new samples to simulator store.
+ Creating store Done! 
+ Total creating time is 0:05:24! 
+ 
+ 
+Loading existing store.
+Store has 10003 simulations.
+Image has L = 40.
+Training ../data/mre/mre_toy_m_1_nsub_1_nsim_10000_sigma_0.0_nmc_1.pt!
+training: lr=0.0005, epoch=1, validation loss=4435.150391training: lr=0.0005, epoch=2, validation loss=4434.860352training: lr=0.0005, epoch=3, validation loss=4434.714355training: lr=0.0005, epoch=4, validation loss=4434.634766training: lr=0.0005, epoch=5, validation loss=4434.596191training: lr=0.0005, epoch=6, validation loss=4434.554199training: lr=0.0005, epoch=7, validation loss=4434.496094training: lr=0.0005, epoch=8, validation loss=4434.455566training: lr=0.0005, epoch=9, validation loss=4434.411621training: lr=0.0005, epoch=10, validation loss=4434.378906training: lr=5e-05, epoch=11, validation loss=4434.327637training: lr=5e-05, epoch=12, validation loss=4434.317871training: lr=5e-05, epoch=13, validation loss=4434.306641training: lr=5e-05, epoch=14, validation loss=4434.296387training: lr=5e-05, epoch=15, validation loss=4434.287598training: lr=5e-05, epoch=16, validation loss=4434.280273training: lr=5e-06, epoch=17, validation loss=4434.273438training: lr=5e-06, epoch=18, validation loss=4434.271973training: lr=5e-06, epoch=19, validation loss=4434.269531training: lr=5e-06, epoch=20, validation loss=4434.269043
+ Training Done! 
+ Total training time is 0:08:03! 
+ 
+ 
+Loading existing store.
+Store has 10003 simulations.
+Image has L = 40.
+Loading ../data/mre/mre_toy_m_1_nsub_1_nsim_10000_sigma_0.0_nmc_1.pt!
+prior no halo 	0.999375
+pario halo 	0.000625
+  0%|          | 0/10003 [00:00<?, ?it/s] 41%|####1     | 4118/10003 [01:00<01:25, 68.63it/s] 41%|####1     | 4118/10003 [01:20<01:25, 68.63it/s] 83%|########2 | 8296/10003 [02:00<00:24, 69.21it/s] 83%|########2 | 8296/10003 [02:20<00:24, 69.21it/s]100%|##########| 10003/10003 [02:23<00:00, 69.47it/s]
+ Prediction Done! 
+ Total prediction time is 0:02:25! 
+ 
+ 
+/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/torch/functional.py:445: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  ../aten/src/ATen/native/TensorShape.cpp:2157.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Image has L = 40.
+m samples: ['1.5e+10', '1.6e+10', '2.7e+10']
+Creating new store.
+Store: Adding 10094 new samples to simulator store.
+ Creating store Done! 
+ Total creating time is 0:05:04! 
+ 
+ 
+Loading existing store.
+Store has 10094 simulations.
+Image has L = 40.
+Training ../data/mre/mre_toy_m_1_nsub_3_nsim_10000_sigma_0.0_nmc_1.pt!
+training: lr=0.0005, epoch=1, validation loss=4432.548828training: lr=0.0005, epoch=2, validation loss=4431.935059training: lr=0.0005, epoch=3, validation loss=4431.628418training: lr=0.0005, epoch=4, validation loss=4431.164062training: lr=0.0005, epoch=5, validation loss=4431.031738training: lr=0.0005, epoch=6, validation loss=4430.950684training: lr=0.0005, epoch=7, validation loss=4430.803711training: lr=0.0005, epoch=8, validation loss=4430.725586training: lr=0.0005, epoch=9, validation loss=4430.64502training: lr=0.0005, epoch=10, validation loss=4430.644531training: lr=0.0005, epoch=11, validation loss=4430.751465training: lr=0.0005, epoch=12, validation loss=4430.959961training: lr=0.0005, epoch=13, validation loss=4430.739746training: lr=0.0005, epoch=14, validation loss=4430.839844training: lr=0.0005, epoch=15, validation loss=4430.818848training: lr=5e-05, epoch=16, validation loss=4430.310547training: lr=5e-05, epoch=17, validation loss=4430.305664training: lr=5e-05, epoch=18, validation loss=4430.307129training: lr=5e-05, epoch=19, validation loss=4430.314941training: lr=5e-05, epoch=20, validation loss=4430.321777
+ Training Done! 
+ Total training time is 0:10:02! 
+ 
+ 
+Loading existing store.
+Store has 10094 simulations.
+Image has L = 40.
+Loading ../data/mre/mre_toy_m_1_nsub_3_nsim_10000_sigma_0.0_nmc_1.pt!
+prior no halo 	0.998125
+pario halo 	0.001875
+  0%|          | 0/10094 [00:00<?, ?it/s] 38%|###7      | 3790/10094 [01:00<01:39, 63.17it/s] 38%|###7      | 3790/10094 [01:10<01:39, 63.17it/s] 75%|#######4  | 7546/10094 [02:00<00:40, 62.83it/s] 75%|#######4  | 7546/10094 [02:10<00:40, 62.83it/s]100%|##########| 10094/10094 [02:40<00:00, 62.71it/s]
+ Prediction Done! 
+ Total prediction time is 0:02:42! 
+ 
+ 
+/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/torch/functional.py:445: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  ../aten/src/ATen/native/TensorShape.cpp:2157.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Image has L = 40.
+m samples: ['1e+10']
+Creating new store.
+Store: Adding 29978 new samples to simulator store.
+ Creating store Done! 
+ Total creating time is 0:14:10! 
+ 
+ 
+Loading existing store.
+Store has 29978 simulations.
+Image has L = 40.
+Training ../data/mre/mre_toy_m_1_nsub_1_nsim_30000_sigma_0.0_nmc_1.pt!
+training: lr=0.0005, epoch=1, validation loss=4434.679688training: lr=0.0005, epoch=2, validation loss=4434.551758training: lr=0.0005, epoch=3, validation loss=4434.470703training: lr=0.0005, epoch=4, validation loss=4434.396484training: lr=0.0005, epoch=5, validation loss=4434.310059training: lr=0.0005, epoch=6, validation loss=4434.285645training: lr=0.0005, epoch=7, validation loss=4434.272949training: lr=5e-05, epoch=8, validation loss=4434.175293training: lr=5e-05, epoch=9, validation loss=4434.172852training: lr=5e-05, epoch=10, validation loss=4434.178223training: lr=5e-05, epoch=11, validation loss=4434.17627training: lr=5e-05, epoch=12, validation loss=4434.170898training: lr=5e-05, epoch=13, validation loss=4434.164062training: lr=5e-05, epoch=14, validation loss=4434.160156training: lr=5e-06, epoch=15, validation loss=4434.140137training: lr=5e-06, epoch=16, validation loss=4434.13916training: lr=5e-06, epoch=17, validation loss=4434.138672training: lr=5e-06, epoch=18, validation loss=4434.138184training: lr=5e-06, epoch=19, validation loss=4434.138184training: lr=5e-06, epoch=20, validation loss=4434.138184
+ Training Done! 
+ Total training time is 0:23:20! 
+ 
+ 
+Loading existing store.
+Store has 29978 simulations.
+Image has L = 40.
+Loading ../data/mre/mre_toy_m_1_nsub_1_nsim_30000_sigma_0.0_nmc_1.pt!
+prior no halo 	0.999375
+pario halo 	0.000625
+  0%|          | 0/29978 [00:00<?, ?it/s] 15%|#4        | 4396/29978 [01:00<05:49, 73.25it/s] 15%|#4        | 4396/29978 [01:20<05:49, 73.25it/s] 29%|##8       | 8575/29978 [02:00<05:00, 71.13it/s] 29%|##8       | 8575/29978 [02:20<05:00, 71.13it/s] 43%|####2     | 12780/29978 [03:00<04:03, 70.65it/s] 43%|####2     | 12780/29978 [03:20<04:03, 70.65it/s] 57%|#####6    | 17000/29978 [04:00<03:04, 70.52it/s] 57%|#####6    | 17000/29978 [04:20<03:04, 70.52it/s] 71%|#######   | 21245/29978 [05:00<02:03, 70.60it/s] 71%|#######   | 21245/29978 [05:20<02:03, 70.60it/s] 85%|########5 | 25563/29978 [06:00<01:02, 71.06it/s] 85%|########5 | 25563/29978 [06:20<01:02, 71.06it/s] 99%|#########9| 29768/29978 [07:00<00:02, 70.74it/s]100%|##########| 29978/29978 [07:03<00:00, 70.86it/s]
+ Prediction Done! 
+ Total prediction time is 0:07:05! 
+ 
+ 

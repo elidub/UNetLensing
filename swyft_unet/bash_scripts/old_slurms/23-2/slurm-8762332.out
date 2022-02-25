@@ -1,0 +1,59 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts
+Image has L = 40.
+m samples: ['2e+10']
+Creating new store.
+Store: Adding 10109 new samples to simulator store.
+ Creating store Done! 
+ Total creating time is 0:07:10! 
+ 
+ 
+Loading existing store.
+Store has 10109 simulations.
+Image has L = 40.
+Training ../data/mre/mre_real_m_1_nsub_1_nsim_10000_sigma_0.0_nmc_1.pt!
+training: lr=0.0005, epoch=1, validation loss=2218.124512training: lr=0.0005, epoch=2, validation loss=2218.041748training: lr=0.0005, epoch=3, validation loss=2217.405029training: lr=0.0005, epoch=4, validation loss=2217.093018training: lr=0.0005, epoch=5, validation loss=2217.03125training: lr=0.0005, epoch=6, validation loss=2216.881104training: lr=0.0005, epoch=7, validation loss=2216.862305training: lr=0.0005, epoch=8, validation loss=2216.857178training: lr=0.0005, epoch=9, validation loss=2216.900146training: lr=0.0005, epoch=10, validation loss=2216.843018training: lr=0.0005, epoch=11, validation loss=2216.824951training: lr=0.0005, epoch=12, validation loss=2216.836426training: lr=0.0005, epoch=13, validation loss=2216.847656training: lr=5e-05, epoch=14, validation loss=2216.754639training: lr=5e-05, epoch=15, validation loss=2216.737549training: lr=5e-05, epoch=16, validation loss=2216.728271training: lr=5e-05, epoch=17, validation loss=2216.722412training: lr=5e-05, epoch=18, validation loss=2216.718018training: lr=5e-05, epoch=19, validation loss=2216.716553training: lr=5e-06, epoch=20, validation loss=2216.713623
+ Training Done! 
+ Saved /nfs/scratch/eliasd/dataset/dataset_real_m_1_nsub_1_nsim_10000_sigma_0.0.pt 
+ Total training time is 0:07:49! 
+ 
+ 
+Loading existing store.
+Store has 10109 simulations.
+Image has L = 40.
+Loading ../data/mre/mre_real_m_1_nsub_1_nsim_10000_sigma_0.0_nmc_1.pt!
+prior no halo 	0.999375
+pario halo 	0.000625
+  0%|          | 0/10109 [00:00<?, ?it/s] 42%|####1     | 4231/10109 [01:00<01:23, 70.51it/s] 42%|####1     | 4231/10109 [01:20<01:23, 70.51it/s] 83%|########3 | 8395/10109 [02:00<00:24, 69.85it/s] 83%|########3 | 8395/10109 [02:20<00:24, 69.85it/s]100%|##########| 10109/10109 [02:25<00:00, 69.65it/s]
+ Prediction Done! 
+ Total prediction time is 0:02:27! 
+ 
+ 
+Image has L = 40.
+m samples: ['1e+10']
+Creating new store.
+Store: Adding 9921 new samples to simulator store.
+ Creating store Done! 
+ Total creating time is 0:06:43! 
+ 
+ 
+Loading existing store.
+Store has 9921 simulations.
+Image has L = 40.
+Training ../data/mre/mre_toy_m_1_nsub_1_nsim_10000_sigma_0.0_nmc_1.pt!
+training: lr=0.0005, epoch=1, validation loss=2216.992676training: lr=0.0005, epoch=2, validation loss=2216.723633training: lr=0.0005, epoch=3, validation loss=2216.627441training: lr=0.0005, epoch=4, validation loss=2216.606934training: lr=0.0005, epoch=5, validation loss=2216.587891training: lr=0.0005, epoch=6, validation loss=2216.544189training: lr=0.0005, epoch=7, validation loss=2216.511963training: lr=0.0005, epoch=8, validation loss=2216.479004training: lr=0.0005, epoch=9, validation loss=2216.428955training: lr=0.0005, epoch=10, validation loss=2216.417969training: lr=0.0005, epoch=11, validation loss=2216.35376training: lr=0.0005, epoch=12, validation loss=2216.313232training: lr=0.0005, epoch=13, validation loss=2216.274414training: lr=0.0005, epoch=14, validation loss=2216.253174training: lr=0.0005, epoch=15, validation loss=2216.253418training: lr=0.0005, epoch=16, validation loss=2216.227295training: lr=0.0005, epoch=17, validation loss=2216.223633training: lr=0.0005, epoch=18, validation loss=2216.223389training: lr=0.0005, epoch=19, validation loss=2216.211182training: lr=0.0005, epoch=20, validation loss=2216.192627
+ Training Done! 
+ Saved /nfs/scratch/eliasd/dataset/dataset_toy_m_1_nsub_1_nsim_10000_sigma_0.0.pt 
+ Total training time is 0:07:39! 
+ 
+ 
+Loading existing store.
+Store has 9921 simulations.
+Image has L = 40.
+Loading ../data/mre/mre_toy_m_1_nsub_1_nsim_10000_sigma_0.0_nmc_1.pt!
+prior no halo 	0.999375
+pario halo 	0.000625
+  0%|          | 0/9921 [00:00<?, ?it/s] 42%|####2     | 4202/9921 [01:00<01:21, 70.02it/s] 42%|####2     | 4202/9921 [01:20<01:21, 70.02it/s] 84%|########3 | 8285/9921 [02:00<00:23, 68.86it/s] 84%|########3 | 8285/9921 [02:20<00:23, 68.86it/s]100%|##########| 9921/9921 [02:23<00:00, 68.98it/s]
+ Prediction Done! 
+ Total prediction time is 0:02:26! 
+ 
+ 

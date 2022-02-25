@@ -1,0 +1,11 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts
+Loading existing store.
+Store has 963 simulations.
+Image has L = 40.
+Training ../data/mre/mre_toy_m_1_nsub_1_nsim_1000_sigma_0.0_nmc_1.pt!
+training: lr=0.0005, epoch=1, validation loss=2218.432617training: lr=0.0005, epoch=2, validation loss=2217.869385training: lr=0.0005, epoch=3, validation loss=2217.492676training: lr=0.0005, epoch=4, validation loss=2217.39502training: lr=0.0005, epoch=5, validation loss=2217.323975training: lr=0.0005, epoch=6, validation loss=2217.268066training: lr=0.0005, epoch=7, validation loss=2217.21875training: lr=0.0005, epoch=8, validation loss=2217.175293training: lr=0.0005, epoch=9, validation loss=2217.135986training: lr=0.0005, epoch=10, validation loss=2217.100586training: lr=0.0005, epoch=11, validation loss=2217.067383training: lr=0.0005, epoch=12, validation loss=2217.035645training: lr=0.0005, epoch=13, validation loss=2217.006836training: lr=0.0005, epoch=14, validation loss=2216.986328training: lr=0.0005, epoch=15, validation loss=2216.960449training: lr=0.0005, epoch=16, validation loss=2216.933594training: lr=0.0005, epoch=17, validation loss=2216.904785training: lr=0.0005, epoch=18, validation loss=2216.876953training: lr=5e-05, epoch=19, validation loss=2216.872559training: lr=5e-05, epoch=20, validation loss=2216.869629
+ Training Done! 
+ Saved /nfs/scratch/eliasd/dataset/dataset_toy_m_1_nsub_1_nsim_1000_sigma_0.0.pt 
+ Total training time is 0:00:44! 
+ 
+ 

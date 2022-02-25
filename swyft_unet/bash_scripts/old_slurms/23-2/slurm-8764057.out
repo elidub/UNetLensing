@@ -1,0 +1,16 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts
+Creating new store.
+Store: Adding 492 new samples to simulator store.
+Creating store /nfs/scratch/eliasd/store/store_real_m_1_nsub_1_nsim_500.zarr Done!
+Total creating time is 0:00:19! 
+ 
+ 
+Loading existing store.
+Store has 492 simulations.
+Training ../data/mre/mre_real_m_1_nsub_1_nsim_500_sigma_0.0_nmc_3.pt!
+3
+training: lr=0.0005, epoch=1, validation loss=6756.535645training: lr=0.0005, epoch=2, validation loss=7014.850586training: lr=0.0005, epoch=3, validation loss=6933.450684training: lr=0.0005, epoch=4, validation loss=6784.65625training: lr=0.0005, epoch=5, validation loss=6758.76709training: lr=0.0005, epoch=6, validation loss=6744.034668training: lr=0.0005, epoch=7, validation loss=6723.951172training: lr=0.0005, epoch=8, validation loss=6718.280273training: lr=0.0005, epoch=9, validation loss=6710.069336training: lr=0.0005, epoch=10, validation loss=6705.998047training: lr=0.0005, epoch=11, validation loss=6702.43457training: lr=0.0005, epoch=12, validation loss=6699.822266training: lr=0.0005, epoch=13, validation loss=6697.615234training: lr=0.0005, epoch=14, validation loss=6695.625488training: lr=0.0005, epoch=15, validation loss=6694.046875training: lr=0.0005, epoch=16, validation loss=6692.354492training: lr=0.0005, epoch=17, validation loss=6690.898926training: lr=0.0005, epoch=18, validation loss=6689.566406training: lr=0.0005, epoch=19, validation loss=6688.263672training: lr=0.0005, epoch=20, validation loss=6687.055664
+Training /nfs/scratch/eliasd/dataset/dataset_real_m_1_nsub_1_nsim_500_sigma_0.0.pt Done!
+Total creating time is 0:00:23! 
+ 
+ 

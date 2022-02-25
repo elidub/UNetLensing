@@ -1,0 +1,125 @@
+run _m9_nsub3_nsim10000
+Loading existing store.
+Store has 9907 simulations
+L = 40
+Training UNet_m9_nsub3_nsim10000_lr-4.590117834440749_fac-1.8950960750948436_pat4.pt!
+Training: lr=2.6e-05, Epoch=1, VL=2218Training: lr=2.6e-05, Epoch=2, VL=2218Training: lr=2.6e-05, Epoch=3, VL=2218Training: lr=2.6e-05, Epoch=4, VL=2218Training: lr=2.6e-05, Epoch=5, VL=2218Training: lr=2.6e-05, Epoch=6, VL=2218Training: lr=3.3e-07, Epoch=7, VL=2218Training: lr=3.3e-07, Epoch=8, VL=2218Training: lr=3.3e-07, Epoch=9, VL=2218Training: lr=3.3e-07, Epoch=10, VL=2218[32m[I 2021-12-06 15:06:48,882][0m Trial 30 finished with value: 2218.082177734375 and parameters: {'lr': 2.5696984677522916e-05, 'factor': 0.01273221386447712, 'patience': 4}. Best is trial 18 with value: 2217.872737630208.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-4.422247602718215_fac-2.176321775336567_pat5.pt!
+Training: lr=3.8e-05, Epoch=1, VL=2218Training: lr=3.8e-05, Epoch=2, VL=2218Training: lr=3.8e-05, Epoch=3, VL=2218Training: lr=3.8e-05, Epoch=4, VL=2218Training: lr=3.8e-05, Epoch=5, VL=2218Training: lr=3.8e-05, Epoch=6, VL=2218Training: lr=3.8e-05, Epoch=7, VL=2218Training: lr=3.8e-05, Epoch=8, VL=2217Training: lr=3.8e-05, Epoch=9, VL=2217Training: lr=3.8e-05, Epoch=10, VL=2217[32m[I 2021-12-06 15:09:53,942][0m Trial 31 finished with value: 2216.515185546875 and parameters: {'lr': 3.782268861294942e-05, 'factor': 0.006663129049923359, 'patience': 5}. Best is trial 31 with value: 2216.515185546875.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-4.3298285754405175_fac-2.14875604383088_pat5.pt!
+Training: lr=4.7e-05, Epoch=1, VL=2218Training: lr=4.7e-05, Epoch=2, VL=2218Training: lr=4.7e-05, Epoch=3, VL=2218Training: lr=4.7e-05, Epoch=4, VL=2218Training: lr=4.7e-05, Epoch=5, VL=2218Training: lr=4.7e-05, Epoch=6, VL=2218Training: lr=4.7e-05, Epoch=7, VL=2218Training: lr=3.3e-07, Epoch=8, VL=2218Training: lr=3.3e-07, Epoch=9, VL=2218Training: lr=3.3e-07, Epoch=10, VL=2218[32m[I 2021-12-06 15:13:04,577][0m Trial 32 finished with value: 2218.0833984375 and parameters: {'lr': 4.679198019737566e-05, 'factor': 0.007099764709394858, 'patience': 5}. Best is trial 31 with value: 2216.515185546875.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-4.148325371281251_fac-2.1055030321503736_pat5.pt!
+Training: lr=7.1e-05, Epoch=1, VL=2218Training: lr=7.1e-05, Epoch=2, VL=2218Training: lr=7.1e-05, Epoch=3, VL=2218Training: lr=7.1e-05, Epoch=4, VL=2218Training: lr=7.1e-05, Epoch=5, VL=2218Training: lr=7.1e-05, Epoch=6, VL=2218Training: lr=7.1e-05, Epoch=7, VL=2218Training: lr=5.6e-07, Epoch=8, VL=2218Training: lr=5.6e-07, Epoch=9, VL=2218Training: lr=5.6e-07, Epoch=10, VL=2218[32m[I 2021-12-06 15:16:11,143][0m Trial 33 finished with value: 2217.901611328125 and parameters: {'lr': 7.106808755507782e-05, 'factor': 0.007843266428634437, 'patience': 5}. Best is trial 31 with value: 2216.515185546875.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-4.138713151373529_fac-2.1194674519195362_pat5.pt!
+Training: lr=7.3e-05, Epoch=1, VL=2218Training: lr=7.3e-05, Epoch=2, VL=2218Training: lr=7.3e-05, Epoch=3, VL=2218Training: lr=7.3e-05, Epoch=4, VL=2218Training: lr=7.3e-05, Epoch=5, VL=2218Training: lr=7.3e-05, Epoch=6, VL=2218Training: lr=7.3e-05, Epoch=7, VL=2217Training: lr=7.3e-05, Epoch=8, VL=2217Training: lr=7.3e-05, Epoch=9, VL=2217Training: lr=7.3e-05, Epoch=10, VL=2216[32m[I 2021-12-06 15:19:16,254][0m Trial 34 finished with value: 2216.3686360677084 and parameters: {'lr': 7.265857040241516e-05, 'factor': 0.007595083416786651, 'patience': 5}. Best is trial 34 with value: 2216.3686360677084.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-4.210961826764758_fac-2.11531195159162_pat5.pt!
+Training: lr=6.2e-05, Epoch=1, VL=2218Training: lr=6.2e-05, Epoch=2, VL=2218Training: lr=6.2e-05, Epoch=3, VL=2218Training: lr=6.2e-05, Epoch=4, VL=2218Training: lr=6.2e-05, Epoch=5, VL=2218Training: lr=6.2e-05, Epoch=6, VL=2217Training: lr=6.2e-05, Epoch=7, VL=2217Training: lr=6.2e-05, Epoch=8, VL=2216Training: lr=6.2e-05, Epoch=9, VL=2217Training: lr=6.2e-05, Epoch=10, VL=2217[32m[I 2021-12-06 15:22:26,261][0m Trial 35 finished with value: 2216.375276692708 and parameters: {'lr': 6.152309473632271e-05, 'factor': 0.007668104952877571, 'patience': 5}. Best is trial 34 with value: 2216.3686360677084.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-4.301088954153464_fac-2.32652088820647_pat5.pt!
+Training: lr=5e-05, Epoch=1, VL=2218Training: lr=5e-05, Epoch=2, VL=2218Training: lr=5e-05, Epoch=3, VL=2218Training: lr=5e-05, Epoch=4, VL=2218Training: lr=5e-05, Epoch=5, VL=2218Training: lr=5e-05, Epoch=6, VL=2217Training: lr=5e-05, Epoch=7, VL=2217Training: lr=5e-05, Epoch=8, VL=2217Training: lr=5e-05, Epoch=9, VL=2217Training: lr=5e-05, Epoch=10, VL=2216[32m[I 2021-12-06 15:25:34,132][0m Trial 36 finished with value: 2216.417024739583 and parameters: {'lr': 4.9993212613778445e-05, 'factor': 0.0047149719325053265, 'patience': 5}. Best is trial 34 with value: 2216.3686360677084.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-4.21711932641648_fac-2.3689802517638165_pat5.pt!
+Training: lr=6.1e-05, Epoch=1, VL=2218Training: lr=6.1e-05, Epoch=2, VL=2218Training: lr=6.1e-05, Epoch=3, VL=2218Training: lr=6.1e-05, Epoch=4, VL=2218Training: lr=6.1e-05, Epoch=5, VL=2218Training: lr=6.1e-05, Epoch=6, VL=2218Training: lr=6.1e-05, Epoch=7, VL=2217Training: lr=6.1e-05, Epoch=8, VL=2217Training: lr=6.1e-05, Epoch=9, VL=2217Training: lr=6.1e-05, Epoch=10, VL=2216[32m[I 2021-12-06 15:28:42,217][0m Trial 37 finished with value: 2216.204069010417 and parameters: {'lr': 6.0656964608308116e-05, 'factor': 0.004275823287307296, 'patience': 5}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-4.215244665024335_fac-2.3815662744265715_pat5.pt!
+Training: lr=6.1e-05, Epoch=1, VL=2218Training: lr=6.1e-05, Epoch=2, VL=2218Training: lr=6.1e-05, Epoch=3, VL=2218Training: lr=6.1e-05, Epoch=4, VL=2218Training: lr=6.1e-05, Epoch=5, VL=2218Training: lr=6.1e-05, Epoch=6, VL=2218Training: lr=6.1e-05, Epoch=7, VL=2218Training: lr=2.5e-07, Epoch=8, VL=2218Training: lr=2.5e-07, Epoch=9, VL=2218Training: lr=2.5e-07, Epoch=10, VL=2218[32m[I 2021-12-06 15:31:53,512][0m Trial 38 finished with value: 2218.080598958333 and parameters: {'lr': 6.091936039998878e-05, 'factor': 0.004153686601064363, 'patience': 5}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-3.94370640751004_fac-2.733049259317843_pat5.pt!
+Training: lr=0.00011, Epoch=1, VL=2218Training: lr=0.00011, Epoch=2, VL=2218Training: lr=0.00011, Epoch=3, VL=2218Training: lr=0.00011, Epoch=4, VL=2218Training: lr=0.00011, Epoch=5, VL=2218Training: lr=0.00011, Epoch=6, VL=2218Training: lr=0.00011, Epoch=7, VL=2218Training: lr=2.1e-07, Epoch=8, VL=2218Training: lr=2.1e-07, Epoch=9, VL=2218Training: lr=2.1e-07, Epoch=10, VL=2218[32m[I 2021-12-06 15:35:01,236][0m Trial 39 finished with value: 2218.067529296875 and parameters: {'lr': 0.00011383966065541412, 'factor': 0.0018490588798527278, 'patience': 5}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-4.627793897442062_fac-2.373929255823089_pat5.pt!
+Training: lr=2.4e-05, Epoch=1, VL=2218Training: lr=2.4e-05, Epoch=2, VL=2218Training: lr=2.4e-05, Epoch=3, VL=2218Training: lr=2.4e-05, Epoch=4, VL=2218Training: lr=2.4e-05, Epoch=5, VL=2218Training: lr=2.4e-05, Epoch=6, VL=2218Training: lr=2.4e-05, Epoch=7, VL=2218Training: lr=1e-07, Epoch=8, VL=2218Training: lr=1e-07, Epoch=9, VL=2218Training: lr=1e-07, Epoch=10, VL=2218[32m[I 2021-12-06 15:38:21,116][0m Trial 40 finished with value: 2218.091064453125 and parameters: {'lr': 2.3561671817588773e-05, 'factor': 0.004227374702607459, 'patience': 5}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-4.2533713515931275_fac-2.127506421733392_pat5.pt!
+Training: lr=5.6e-05, Epoch=1, VL=2218Training: lr=5.6e-05, Epoch=2, VL=2218Training: lr=5.6e-05, Epoch=3, VL=2218Training: lr=5.6e-05, Epoch=4, VL=2218Training: lr=5.6e-05, Epoch=5, VL=2218Training: lr=5.6e-05, Epoch=6, VL=2218Training: lr=5.6e-05, Epoch=7, VL=2218Training: lr=4.2e-07, Epoch=8, VL=2218Training: lr=4.2e-07, Epoch=9, VL=2218Training: lr=4.2e-07, Epoch=10, VL=2218[32m[I 2021-12-06 15:41:35,941][0m Trial 41 finished with value: 2218.0510091145834 and parameters: {'lr': 5.579928684879246e-05, 'factor': 0.007455788473793491, 'patience': 5}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-4.3789970100916955_fac-2.3788739130976078_pat5.pt!
+Training: lr=4.2e-05, Epoch=1, VL=2218Training: lr=4.2e-05, Epoch=2, VL=2218Training: lr=4.2e-05, Epoch=3, VL=2218Training: lr=4.2e-05, Epoch=4, VL=2218Training: lr=4.2e-05, Epoch=5, VL=2218Training: lr=4.2e-05, Epoch=6, VL=2218Training: lr=4.2e-05, Epoch=7, VL=2218Training: lr=4.2e-05, Epoch=8, VL=2217Training: lr=4.2e-05, Epoch=9, VL=2217Training: lr=4.2e-05, Epoch=10, VL=2217[32m[I 2021-12-06 15:44:41,805][0m Trial 42 finished with value: 2216.74111328125 and parameters: {'lr': 4.178332432173252e-05, 'factor': 0.004179516912021942, 'patience': 5}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-4.105218973328358_fac-2.642704056799238_pat5.pt!
+Training: lr=7.8e-05, Epoch=1, VL=2218Training: lr=7.8e-05, Epoch=2, VL=2218Training: lr=7.8e-05, Epoch=3, VL=2218Training: lr=7.8e-05, Epoch=4, VL=2218Training: lr=7.8e-05, Epoch=5, VL=2218Training: lr=7.8e-05, Epoch=6, VL=2218Training: lr=7.8e-05, Epoch=7, VL=2218Training: lr=1.8e-07, Epoch=8, VL=2218Training: lr=1.8e-07, Epoch=9, VL=2218Training: lr=1.8e-07, Epoch=10, VL=2218[32m[I 2021-12-06 15:47:48,037][0m Trial 43 finished with value: 2218.083740234375 and parameters: {'lr': 7.848398148909727e-05, 'factor': 0.0022766482887743044, 'patience': 5}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-4.416129632199339_fac-2.182868395059478_pat5.pt!
+Training: lr=3.8e-05, Epoch=1, VL=2218Training: lr=3.8e-05, Epoch=2, VL=2218Training: lr=3.8e-05, Epoch=3, VL=2218Training: lr=3.8e-05, Epoch=4, VL=2218Training: lr=3.8e-05, Epoch=5, VL=2218Training: lr=3.8e-05, Epoch=6, VL=2218Training: lr=3.8e-05, Epoch=7, VL=2218Training: lr=2.5e-07, Epoch=8, VL=2218Training: lr=2.5e-07, Epoch=9, VL=2218Training: lr=2.5e-07, Epoch=10, VL=2218[32m[I 2021-12-06 16:22:35,317][0m Trial 44 finished with value: 2218.041292317708 and parameters: {'lr': 3.8359273012678555e-05, 'factor': 0.006563441291652048, 'patience': 5}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-4.1847192800115565_fac-2.0426797368484815_pat4.pt!
+Training: lr=6.5e-05, Epoch=1, VL=2218Training: lr=6.5e-05, Epoch=2, VL=2218Training: lr=6.5e-05, Epoch=3, VL=2218Training: lr=6.5e-05, Epoch=4, VL=2218Training: lr=6.5e-05, Epoch=5, VL=2218Training: lr=6.5e-05, Epoch=6, VL=2218Training: lr=5.9e-07, Epoch=7, VL=2218Training: lr=5.9e-07, Epoch=8, VL=2218Training: lr=5.9e-07, Epoch=9, VL=2218Training: lr=5.9e-07, Epoch=10, VL=2218[32m[I 2021-12-06 16:25:42,912][0m Trial 45 finished with value: 2218.037076822917 and parameters: {'lr': 6.535528607301394e-05, 'factor': 0.00906400764483569, 'patience': 4}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-3.9773987061375515_fac-2.067974512722229_pat5.pt!
+Training: lr=0.00011, Epoch=1, VL=2218Training: lr=0.00011, Epoch=2, VL=2218Training: lr=0.00011, Epoch=3, VL=2218Training: lr=0.00011, Epoch=4, VL=2218Training: lr=0.00011, Epoch=5, VL=2218Training: lr=0.00011, Epoch=6, VL=2217Training: lr=0.00011, Epoch=7, VL=2217Training: lr=0.00011, Epoch=8, VL=2217Training: lr=0.00011, Epoch=9, VL=2218Training: lr=0.00011, Epoch=10, VL=2218[32m[I 2021-12-06 16:28:51,032][0m Trial 46 finished with value: 2216.570703125 and parameters: {'lr': 0.0001053419355626361, 'factor': 0.008551168953374499, 'patience': 5}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-4.554120641939613_fac-2.322445026111401_pat2.pt!
+Training: lr=2.8e-05, Epoch=1, VL=2220Training: lr=2.8e-05, Epoch=2, VL=2218Training: lr=2.8e-05, Epoch=3, VL=2218Training: lr=2.8e-05, Epoch=4, VL=2218Training: lr=2.8e-05, Epoch=5, VL=2218Training: lr=1.3e-07, Epoch=6, VL=2218Training: lr=1.3e-07, Epoch=7, VL=2218Training: lr=1.3e-07, Epoch=8, VL=2218Training: lr=6.3e-10, Epoch=9, VL=2218Training: lr=6.3e-10, Epoch=10, VL=2218[32m[I 2021-12-06 16:32:00,792][0m Trial 47 finished with value: 2218.115625 and parameters: {'lr': 2.791768212877606e-05, 'factor': 0.004759430330238018, 'patience': 2}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-4.253055186132452_fac-2.239876715259836_pat4.pt!
+Training: lr=5.6e-05, Epoch=1, VL=2218Training: lr=5.6e-05, Epoch=2, VL=2218Training: lr=5.6e-05, Epoch=3, VL=2218Training: lr=5.6e-05, Epoch=4, VL=2218Training: lr=5.6e-05, Epoch=5, VL=2218Training: lr=5.6e-05, Epoch=6, VL=2218Training: lr=3.2e-07, Epoch=7, VL=2218Training: lr=3.2e-07, Epoch=8, VL=2218Training: lr=3.2e-07, Epoch=9, VL=2218Training: lr=3.2e-07, Epoch=10, VL=2218[32m[I 2021-12-06 16:35:08,364][0m Trial 48 finished with value: 2217.930029296875 and parameters: {'lr': 5.583992340100521e-05, 'factor': 0.005756033127344541, 'patience': 4}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-3.694961702787626_fac-2.462105323731881_pat5.pt!
+Training: lr=0.0002, Epoch=1, VL=2218Training: lr=0.0002, Epoch=2, VL=2218Training: lr=0.0002, Epoch=3, VL=2218Training: lr=0.0002, Epoch=4, VL=2218Training: lr=0.0002, Epoch=5, VL=2218Training: lr=0.0002, Epoch=6, VL=2218Training: lr=0.0002, Epoch=7, VL=2219Training: lr=7e-07, Epoch=8, VL=2216Training: lr=7e-07, Epoch=9, VL=2216Training: lr=7e-07, Epoch=10, VL=2216[32m[I 2021-12-06 16:38:16,290][0m Trial 49 finished with value: 2216.3153483072915 and parameters: {'lr': 0.00020185443563035266, 'factor': 0.003450600463105755, 'patience': 5}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-3.6745778537330853_fac-2.467130350055143_pat5.pt!
+Training: lr=0.00021, Epoch=1, VL=2218Training: lr=0.00021, Epoch=2, VL=2218Training: lr=0.00021, Epoch=3, VL=2218Training: lr=0.00021, Epoch=4, VL=2218Training: lr=0.00021, Epoch=5, VL=2218Training: lr=0.00021, Epoch=6, VL=2218Training: lr=0.00021, Epoch=7, VL=2217Training: lr=0.00021, Epoch=8, VL=2219Training: lr=0.00021, Epoch=9, VL=2218Training: lr=0.00021, Epoch=10, VL=2219[32m[I 2021-12-06 16:41:25,240][0m Trial 50 finished with value: 2217.0367513020833 and parameters: {'lr': 0.0002115544408505487, 'factor': 0.0034109052063372117, 'patience': 5}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-4.077298465265848_fac-2.6782502328468785_pat5.pt!
+Training: lr=8.4e-05, Epoch=1, VL=2218Training: lr=8.4e-05, Epoch=2, VL=2218Training: lr=8.4e-05, Epoch=3, VL=2218Training: lr=8.4e-05, Epoch=4, VL=2218Training: lr=8.4e-05, Epoch=5, VL=2218Training: lr=8.4e-05, Epoch=6, VL=2218Training: lr=8.4e-05, Epoch=7, VL=2217Training: lr=8.4e-05, Epoch=8, VL=2217Training: lr=8.4e-05, Epoch=9, VL=2216Training: lr=8.4e-05, Epoch=10, VL=2217[32m[I 2021-12-06 16:44:32,195][0m Trial 51 finished with value: 2216.4991536458333 and parameters: {'lr': 8.36953894840461e-05, 'factor': 0.002097730859698263, 'patience': 5}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-3.91331625059152_fac-2.7501985258685906_pat5.pt!
+Training: lr=0.00012, Epoch=1, VL=2218Training: lr=0.00012, Epoch=2, VL=2218Training: lr=0.00012, Epoch=3, VL=2218Training: lr=0.00012, Epoch=4, VL=2218Training: lr=0.00012, Epoch=5, VL=2218Training: lr=0.00012, Epoch=6, VL=2218Training: lr=0.00012, Epoch=7, VL=2217Training: lr=0.00012, Epoch=8, VL=2217Training: lr=0.00012, Epoch=9, VL=2217Training: lr=0.00012, Epoch=10, VL=2218[32m[I 2021-12-06 16:47:39,475][0m Trial 52 finished with value: 2217.005061848958 and parameters: {'lr': 0.00012209102769691554, 'factor': 0.001777466703911075, 'patience': 5}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-4.090677925253568_fac-2.644682701152644_pat5.pt!
+Training: lr=8.1e-05, Epoch=1, VL=2218Training: lr=8.1e-05, Epoch=2, VL=2218Training: lr=8.1e-05, Epoch=3, VL=2218Training: lr=8.1e-05, Epoch=4, VL=2218Training: lr=8.1e-05, Epoch=5, VL=2218Training: lr=8.1e-05, Epoch=6, VL=2218Training: lr=8.1e-05, Epoch=7, VL=2218Training: lr=8.1e-05, Epoch=8, VL=2217Training: lr=8.1e-05, Epoch=9, VL=2217Training: lr=8.1e-05, Epoch=10, VL=2217[32m[I 2021-12-06 16:50:51,083][0m Trial 53 finished with value: 2216.9480794270835 and parameters: {'lr': 8.115626932919526e-05, 'factor': 0.002266299478492894, 'patience': 5}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-3.491195523801474_fac-2.8385578117941126_pat5.pt!
+Training: lr=0.00032, Epoch=1, VL=2218Training: lr=0.00032, Epoch=2, VL=2218Training: lr=0.00032, Epoch=3, VL=2218Training: lr=0.00032, Epoch=4, VL=2218Training: lr=0.00032, Epoch=5, VL=2218Training: lr=0.00032, Epoch=6, VL=2218Training: lr=0.00032, Epoch=7, VL=2218Training: lr=4.7e-07, Epoch=8, VL=2218Training: lr=4.7e-07, Epoch=9, VL=2218Training: lr=4.7e-07, Epoch=10, VL=2218[32m[I 2021-12-06 16:53:59,001][0m Trial 54 finished with value: 2217.9608072916667 and parameters: {'lr': 0.00032270409479001253, 'factor': 0.001450247709446763, 'patience': 5}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-4.032980323559313_fac-2.541976687707224_pat5.pt!
+Training: lr=9.3e-05, Epoch=1, VL=2218Training: lr=9.3e-05, Epoch=2, VL=2218Training: lr=9.3e-05, Epoch=3, VL=2218Training: lr=9.3e-05, Epoch=4, VL=2218Training: lr=9.3e-05, Epoch=5, VL=2218Training: lr=9.3e-05, Epoch=6, VL=2218Training: lr=9.3e-05, Epoch=7, VL=2218Training: lr=2.7e-07, Epoch=8, VL=2218Training: lr=2.7e-07, Epoch=9, VL=2218Training: lr=2.7e-07, Epoch=10, VL=2218[32m[I 2021-12-06 16:57:06,452][0m Trial 55 finished with value: 2217.988802083333 and parameters: {'lr': 9.26871815911918e-05, 'factor': 0.00287093468546475, 'patience': 5}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-4.144077976926042_fac-2.4293041164700346_pat5.pt!
+Training: lr=7.2e-05, Epoch=1, VL=2218Training: lr=7.2e-05, Epoch=2, VL=2218Training: lr=7.2e-05, Epoch=3, VL=2218Training: lr=7.2e-05, Epoch=4, VL=2218Training: lr=7.2e-05, Epoch=5, VL=2218Training: lr=7.2e-05, Epoch=6, VL=2218Training: lr=7.2e-05, Epoch=7, VL=2218Training: lr=2.7e-07, Epoch=8, VL=2218Training: lr=2.7e-07, Epoch=9, VL=2218Training: lr=2.7e-07, Epoch=10, VL=2218[32m[I 2021-12-06 17:00:17,570][0m Trial 56 finished with value: 2218.083251953125 and parameters: {'lr': 7.176654239469856e-05, 'factor': 0.0037213102873481156, 'patience': 5}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-3.747660271670066_fac-2.602586011716352_pat4.pt!
+Training: lr=0.00018, Epoch=1, VL=2218Training: lr=0.00018, Epoch=2, VL=2218Training: lr=0.00018, Epoch=3, VL=2218Training: lr=0.00018, Epoch=4, VL=2218Training: lr=0.00018, Epoch=5, VL=2218Training: lr=0.00018, Epoch=6, VL=2218Training: lr=4.5e-07, Epoch=7, VL=2218Training: lr=4.5e-07, Epoch=8, VL=2218Training: lr=4.5e-07, Epoch=9, VL=2218Training: lr=4.5e-07, Epoch=10, VL=2218[32m[I 2021-12-06 17:03:25,349][0m Trial 57 finished with value: 2218.036555989583 and parameters: {'lr': 0.00017878856075470245, 'factor': 0.002496973816274674, 'patience': 4}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-3.865157082349225_fac-2.2964038276250958_pat5.pt!
+Training: lr=0.00014, Epoch=1, VL=2218Training: lr=0.00014, Epoch=2, VL=2218Training: lr=0.00014, Epoch=3, VL=2218Training: lr=0.00014, Epoch=4, VL=2218Training: lr=0.00014, Epoch=5, VL=2218Training: lr=0.00014, Epoch=6, VL=2218Training: lr=0.00014, Epoch=7, VL=2218Training: lr=6.9e-07, Epoch=8, VL=2218Training: lr=6.9e-07, Epoch=9, VL=2218Training: lr=6.9e-07, Epoch=10, VL=2218[32m[I 2021-12-06 17:06:32,784][0m Trial 58 finished with value: 2218.067415364583 and parameters: {'lr': 0.0001364089662291296, 'factor': 0.005053545408254129, 'patience': 5}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Training UNet_m9_nsub3_nsim10000_lr-3.6056996537947765_fac-1.9529254543141015_pat3.pt!
+Training: lr=0.00025, Epoch=1, VL=2218Training: lr=0.00025, Epoch=2, VL=2218Training: lr=0.00025, Epoch=3, VL=2218Training: lr=0.00025, Epoch=4, VL=2218Training: lr=0.00025, Epoch=5, VL=2218Training: lr=2.8e-06, Epoch=6, VL=2218Training: lr=2.8e-06, Epoch=7, VL=2218Training: lr=2.8e-06, Epoch=8, VL=2218Training: lr=2.8e-06, Epoch=9, VL=2218Training: lr=3.1e-08, Epoch=10, VL=2218[32m[I 2021-12-06 17:09:39,919][0m Trial 59 finished with value: 2218.0344401041666 and parameters: {'lr': 0.0002479135967660429, 'factor': 0.011144858161965148, 'patience': 3}. Best is trial 37 with value: 2216.204069010417.[0m
+
+
+Done!

@@ -1,0 +1,6 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts
+Loading existing store.
+Store has 9817 simulations.
+Image has L = 40.
+Training ../data/mre/mre_toy_m_1_nsub_3_nsim_10000_sigma_0.0_nmc_1.pt!
+training: lr=0.0005, epoch=1, validation loss=4432.645508training: lr=0.0005, epoch=2, validation loss=4431.993164training: lr=0.0005, epoch=3, validation loss=4431.503906slurmstepd: error: *** JOB 8729945 ON r28n1 CANCELLED AT 2022-02-04T13:57:51 ***

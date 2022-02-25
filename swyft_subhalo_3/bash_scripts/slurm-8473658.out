@@ -1,0 +1,6 @@
+run _m10_nsub3_nsim50000
+Loading existing store.
+Store has 50268 simulations
+L = 40
+Training UNet_m10_nsub3_nsim50000_lr-3.0_fac-1.0_pat5.pt!
+Training: lr=0.001, Epoch=1, VL=2231slurmstepd: error: *** JOB 8473658 ON r28n2 CANCELLED AT 2021-12-06T11:26:10 ***

@@ -1,0 +1,2739 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/swyft/swyft/store/simulator.py", line 340, in _run_model
+    sim = model(v)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/create_store.py", line 63, in <lambda>
+    simulator = swyft.Simulator(model = lambda v: simul_choose(v, config),
+TypeError: 'str' object is not callable
+Creating new store.
+Store: Adding 454 new samples to simulator store.
+Creating store /nfs/scratch/eliasd/store/store_m_1_nsub_1_nsim_500.zarr Done!
+Total creating time is 0:00:14! 
+ 
+ 
+Loading existing store.
+Store has 454 simulations.
+Training ../data/mre/mre_m_1_nsub_1_nsim_500_sigma_0.0_nmc_1.pt!
+training: lr=0.0005, epoch=1, validation loss=nantraining: lr=0.0005, epoch=2, validation loss=nantraining: lr=0.0005, epoch=3, validation loss=nantraining: lr=0.0005, epoch=4, validation loss=nantraining: lr=0.0005, epoch=5, validation loss=nantraining: lr=0.0005, epoch=6, validation loss=nantraining: lr=5e-05, epoch=7, validation loss=nantraining: lr=5e-05, epoch=8, validation loss=nantraining: lr=5e-05, epoch=9, validation loss=nantraining: lr=5e-05, epoch=10, validation loss=nantraining: lr=5e-05, epoch=11, validation loss=nantraining: lr=5e-05, epoch=12, validation loss=nantraining: lr=5e-06, epoch=13, validation loss=nantraining: lr=5e-06, epoch=14, validation loss=nantraining: lr=5e-06, epoch=15, validation loss=nantraining: lr=5e-06, epoch=16, validation loss=nantraining: lr=5e-06, epoch=17, validation loss=nantraining: lr=5e-06, epoch=18, validation loss=nantraining: lr=5e-07, epoch=19, validation loss=nantraining: lr=5e-07, epoch=20, validation loss=nan
+Training /nfs/scratch/eliasd/dataset/dataset_m_1_nsub_1_nsim_500_sigma_0.0.pt Done!
+Total creating time is 0:00:23! 
+ 
+ 

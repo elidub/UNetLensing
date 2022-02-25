@@ -1,0 +1,18 @@
+run _m9_nsub3_nsim10000
+Loading existing store.
+Store has 9907 simulations
+L = 40
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_subhalo_3/gridsearch.py", line 96, in <module>
+    run()
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1137, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1062, in main
+    rv = self.invoke(ctx)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 763, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_subhalo_3/gridsearch.py", line 90, in run
+    study = optuna.create_study(direction="minimize")
+NameError: name 'optuna' is not defined

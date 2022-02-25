@@ -1,0 +1,115 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts
+/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/torch/functional.py:445: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  ../aten/src/ATen/native/TensorShape.cpp:2157.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+Image has L = 40.
+m samples: ['1e+10']
+Creating new store.
+Store: Adding 100561 new samples to simulator store.
+ Creating store Done! 
+ Total creating time is 0:55:04! 
+ 
+ 
+Loading existing store.
+Store has 100561 simulations.
+Image has L = 40.
+Training ../data/mre/mre_real_m_1_nsub_1_nsim_100000_sigma_0.0_nmc_1.pt!
+training: lr=0.0005, epoch=1, validation loss=4434.420898training: lr=0.0005, epoch=2, validation loss=4434.259766training: lr=0.0005, epoch=3, validation loss=4434.196777training: lr=0.0005, epoch=4, validation loss=4434.185547training: lr=0.0005, epoch=5, validation loss=4434.193359training: lr=0.0005, epoch=6, validation loss=4434.162109training: lr=0.0005, epoch=7, validation loss=4434.157715training: lr=5e-05, epoch=8, validation loss=4434.106934training: lr=5e-05, epoch=9, validation loss=4434.103027training: lr=5e-05, epoch=10, validation loss=4434.099121training: lr=5e-05, epoch=11, validation loss=4434.097168training: lr=5e-05, epoch=12, validation loss=4434.096191training: lr=5e-05, epoch=13, validation loss=4434.096191training: lr=5e-06, epoch=14, validation loss=4434.091797training: lr=5e-06, epoch=15, validation loss=4434.090332training: lr=5e-06, epoch=16, validation loss=4434.089844training: lr=5e-06, epoch=17, validation loss=4434.089844/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:93: operator(): block: [0,0,0], thread: [25,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+/pytorch/aten/src/ATen/native/cuda/IndexKernel.cu:93: operator(): block: [0,0,0], thread: [27,0,0] Assertion `index >= -sizes[i] && index < sizes[i] && "index out of bounds"` failed.
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/train.py", line 103, in <module>
+    run()
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1137, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1062, in main
+    rv = self.invoke(ctx)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 763, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/train.py", line 95, in run
+    _ = mre.train(dataset, max_epochs = max_epochs)
+  File "/home/eliasd/lensing/swyft/swyft/inference/marginalratioestimator.py", line 233, in train
+    loss = self._loss(observation, v).sum(dim=0)
+  File "/home/eliasd/lensing/swyft/swyft/inference/marginalratioestimator.py", line 376, in _loss
+    lnL = self.network(observation_doubled, parameters_doubled)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/eliasd/lensing/swyft/swyft/networks/classifier.py", line 219, in forward
+    return self.marginal_classifier(features, marginal_block)  # B, M
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/classifier.py", line 38, in forward
+    x = self.UNet(sims)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/unet.py", line 63, in forward
+    x = self.ups[idx](x)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/torch/nn/modules/conv.py", line 923, in forward
+    return F.conv_transpose2d(
+RuntimeError: cuDNN error: CUDNN_STATUS_EXECUTION_FAILED
+You can try to repro this exception using the following code snippet. If that doesn't trigger the error, please include your original repro script when reporting this issue.
+
+import torch
+torch.backends.cuda.matmul.allow_tf32 = True
+torch.backends.cudnn.benchmark = False
+torch.backends.cudnn.deterministic = False
+torch.backends.cudnn.allow_tf32 = True
+data = torch.randn([100, 512, 4, 4], dtype=torch.float, device='cuda', requires_grad=True)
+net = torch.nn.Conv2d(512, 1024, kernel_size=[2, 2], padding=[0, 0], stride=[2, 2], dilation=[1, 1], groups=1)
+net = net.cuda().float()
+out = net(data)
+out.backward(torch.randn_like(out))
+torch.cuda.synchronize()
+
+ConvolutionParams 
+    data_type = CUDNN_DATA_FLOAT
+    padding = [0, 0, 0]
+    stride = [2, 2, 0]
+    dilation = [1, 1, 0]
+    groups = 1
+    deterministic = false
+    allow_tf32 = true
+input: TensorDescriptor 0x55ff13ddf4c0
+    type = CUDNN_DATA_FLOAT
+    nbDims = 4
+    dimA = 100, 512, 4, 4, 
+    strideA = 8192, 16, 4, 1, 
+output: TensorDescriptor 0x55ff13e26380
+    type = CUDNN_DATA_FLOAT
+    nbDims = 4
+    dimA = 100, 1024, 2, 2, 
+    strideA = 4096, 4, 2, 1, 
+weight: FilterDescriptor 0x55ff13e1c7f0
+    type = CUDNN_DATA_FLOAT
+    tensor_format = CUDNN_TENSOR_NCHW
+    nbDims = 4
+    dimA = 1024, 512, 2, 2, 
+Pointer addresses: 
+    input: 0x148ef7746000
+    output: 0x148ef75b6000
+    weight: 0x148f32000000
+Additional pointer addresses: 
+    grad_output: 0x148ef75b6000
+    grad_input: 0x148ef7746000
+Backward data algorithm: 0
+
+Traceback (most recent call last):
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/get_pred.py", line 136, in <module>
+    run()
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1137, in __call__
+    return self.main(*args, **kwargs)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1062, in main
+    rv = self.invoke(ctx)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 1404, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/eliasd/.pyenv/versions/lens-3.9.7/lib/python3.9/site-packages/click/core.py", line 763, in invoke
+    return __callback(*args, **kwargs)
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/get_pred.py", line 67, in run
+    store = swyft.Store.load(path=store_path)
+  File "/home/eliasd/lensing/swyft/swyft/store/store.py", line 598, in load
+    return cls(
+  File "/home/eliasd/lensing/swyft/swyft/store/store.py", line 72, in __init__
+    raise KeyError(
+KeyError: "Invalid Zarr store. It should have keys: ['samples', 'metadata']."

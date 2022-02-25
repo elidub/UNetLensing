@@ -1,0 +1,14 @@
+/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts
+Loading existing store.
+Store has 1034 simulations.
+Image has L = 40.
+Training ../data/mre/mre_toy_m_1_nsub_2_nsim_1000_sigma_0.1_nmc_1.pt!
+training: lr=0.0005, epoch=1, validation loss=4436.301758training: lr=0.0005, epoch=2, validation loss=4434.987305training: lr=0.0005, epoch=3, validation loss=4434.680176training: lr=0.0005, epoch=4, validation loss=4434.525879training: lr=0.0005, epoch=5, validation loss=4434.40625training: lr=0.0005, epoch=6, validation loss=4434.311523training: lr=0.0005, epoch=7, validation loss=4434.198242training: lr=0.0005, epoch=8, validation loss=4434.128906training: lr=0.0005, epoch=9, validation loss=4434.063477training: lr=0.0005, epoch=10, validation loss=4434.001953
+ Training Done! 
+ Total training time is 0:00:29! 
+ 
+ 
+  File "/home/eliasd/lensing/pyrofit-lensing-analysis/experiments/swyft_unet/scripts/get_pred.py", line 123
+    for i in tqdm(range(npred), miniters=int(npred/10): # loop over number of observations we will take into account
+                                                      ^
+SyntaxError: invalid syntax
